@@ -29,7 +29,7 @@ vless://3a2971b4-6701-43f8-8e9f-90b47ff9f6ed@wasp.khorzoo.lol:34062?type=tcp&sec
 vless://98b3360c-ac66-44d7-ae77-e66d0f049561@wasp.khorzoo.lol:51531?type=tcp&security=reality&pbk=sVbNGQaj6RspkMi9NeoAmf8GFsVDC_sHYD4j5gSXWUA&fp=chrome&sni=ghbi.ir&sid=0f277a40&spx=%2F&flow=xtls-rprx-vision#Conf28-bp9zhzwk
 vless://03b04225-8f3a-4385-b2a3-505b8e7c5ce6@wasp.khorzoo.lol:16424?type=tcp&security=reality&pbk=WKQ35WRGHgp5mGb4ih3XsZeFXgEpxqCmekjdUXM02Uo&fp=chrome&sni=ghbi.ir&sid=a8f2ebeb&spx=%2F&flow=xtls-rprx-vision#Conf29-rt4cten4
 vless://2e351730-014a-431e-a02a-100a5a69e3e9@104.21.78.131:2087?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=hamrah.khorzoo.lol#Conf30-ve8d983g
-vless://0554a200-9faf-4576-82b0-9ed8a30d4f59@wasp.khorzoo.lol:8443?type=tcp&security=reality&pbk=fTKLO3BiENqeowmyEGmpqaXeTmRIdhZlXIFTQr01fRs&fp=chrome&sni=codepen.io&sid=0ce9095f&spx=%2F#Chisel-ikw7lqdu
+vless://0554a200-9faf-4576-82b0-9ed8a30d4f59@127.0.0.1:5050?type=tcp&security=reality&pbk=fTKLO3BiENqeowmyEGmpqaXeTmRIdhZlXIFTQr01fRs&fp=chrome&sni=codepen.io&sid=0ce9095f&spx=%2F#Chisel-ikw7lqdu
 vless://446fb5de-1229-439b-b381-0bf959b0dfd5@clean.khorzoo.lol:2096?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=hamrah.khorzoo.lol#CFconfig-wtl2vs0a
 vless://7725bb0c-8b2b-432e-99b6-12f1bff95884@zula.ir:443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=hamrah.khorzoo.lol#Conf31-4hqwvnqy
 vless://11ada75b-8f7e-4fff-a824-c74049c6dd85@wasp.khorzoo.lol:50783?type=ws&path=%2F&host=sourceforge.net&security=none#Conf17_-vgqehsx0
