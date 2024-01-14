@@ -24,3 +24,4 @@ vless://2e0bd976-4338-4bec-853d-c070ea7a12e7@king.jouhatsu.sbs:53449?type=tcp&se
 vless://37110a30-0d02-4313-9d2b-3c6265ed84e0@king.jouhatsu.sbs:31852?type=tcp&security=reality&pbk=kYwF3iT4c68qSM9cnMvcVz5pRn3aSh9pnvCrcCN01Uk&fp=chrome&sni=ghbi.ir&sid=1f775245&spx=%2F&flow=xtls-rprx-vision#King23-fzwjfu53
 vless://2ab04b83-e532-4231-be2a-992649c2d796@king.jouhatsu.sbs:20711?type=tcp&security=reality&pbk=WbxebQTw4jffIbNzr14X1Z4471U2hyuvZrUus8HWiwE&fp=chrome&sni=ghbi.ir&sid=e2b87581&spx=%2F&flow=xtls-rprx-vision#King24-tsxx0go2
 vless://46c19c52-0479-4d83-9cf0-60fbfacd53ae@king.jouhatsu.sbs:36488?type=tcp&security=reality&pbk=OA4kjXa4ze_LEyLLfTqffHWSPbICEfJzpvSSa77cfSc&fp=chrome&sni=ghbi.ir&sid=8d9ee7f1&spx=%2F&flow=xtls-rprx-vision#King25-j9bblubo
+vless://c0a19004-cd12-41c4-9c8c-bae676e1ace2@127.0.0.1:5050?type=tcp&security=reality&pbk=EkKXtZTEUhhSHZVSlOmQ7K7_omuF2An6GctpYla9Jno&fp=chrome&sni=codepen.io&sid=9e1c9cc2&spx=%2F#KingChisel-esmq9k44
