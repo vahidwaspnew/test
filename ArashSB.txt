@@ -1,0 +1,27 @@
+vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@45.59.118.91:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=tcp&encryption=none#ArashSB%20xtls-reality
+----------------------------
+hy2://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@45.59.118.91:8882?obfs=salamander&obfs-password=d693b159-3f2f-4fda-ae78-75c7ccbf90e8&insecure=1#ArashSB%20hysteria2
+----------------------------
+tuic://d693b159-3f2f-4fda-ae78-75c7ccbf90e8:d693b159-3f2f-4fda-ae78-75c7ccbf90e8@45.59.118.91:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#ArashSB%20tuic
+----------------------------
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImQ2OTNiMTU5LTNmMmYtNGZkYS1hZTc4LTc1YzdjY2JmOTBlOFwiLFxuICAgIFwic2VydmVyXCI6IFwiNDUuNTkuMTE4LjkxXCIsXG4gICAgXCJzZXJ2ZXJfcG9ydFwiOiA4ODg0LFxuICAgIFwidGFnXCI6IFwic2hhZG93dGxzLW91dFwiLFxuICAgIFwidGxzXCI6IHtcbiAgICAgICAgXCJlbmFibGVkXCI6IHRydWUsXG4gICAgICAgIFwic2VydmVyX25hbWVcIjogXCJhZGRvbnMubW96aWxsYS5vcmdcIlxuICAgIH0sXG4gICAgXCJ0eXBlXCI6IFwic2hhZG93dGxzXCIsXG4gICAgXCJ2ZXJzaW9uXCI6IDNcbn1cbiIsIm1hcHBpbmdfcG9ydCI6MCwibmFtZSI6IjEtdGxzLW5vdC11c2UiLCJwb3J0IjoxMDgwLCJzb2Nrc19wb3J0IjowfQo=
+
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6InVucHgyQjN2cUwxNUhmSWFqWG5wTmc9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9Cg==
+
+ ShadowTLS - Copy the above two Neko links and manually set up the chained proxies in order. Tutorial: https://github.com/fscarmen/sing-box/blob/main/README.md#sekobox-%E8%AE%BE%E7%BD%AE-shadowtls-%E6%96%B9%E6%B3%95
+----------------------------
+ss://YWVzLTEyOC1nY206ZDY5M2IxNTktM2YyZi00ZmRhLWFlNzgtNzVjN2NjYmY5MGU4@45.59.118.91:8885#ArashSB%20ss
+----------------------------
+trojan://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@45.59.118.91:8886?security=tls&allowInsecure=1&fp=random&type=tcp#ArashSB%20trojan
+----------------------------
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5oYXJ5YWxjbGluaWMuY29tIiwiaWQiOiJkNjkzYjE1OS0zZjJmLTRmZGEtYWU3OC03NWM3Y2NiZjkwZTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDY5M2IxNTktM2YyZi00ZmRhLWFlNzgtNzVjN2NjYmY5MGU4LXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJBcmFzaFNCIHZtZXNzIHdzIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+Please set the ip [45.59.118.91] to domain [vmess.haryalclinic.com], and set the origin rule to [8887] in Cloudflare.
+----------------------------
+vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@time.cloudflare.com:443?security=tls&sni=vless.haryalclinic.com&type=ws&path=/d693b159-3f2f-4fda-ae78-75c7ccbf90e8-vless?ed%3D2048&host=vless.haryalclinic.com&encryption=none#ArashSB%20vless%20ws
+
+Please set the ip [45.59.118.91] to domain [vless.haryalclinic.com], and set the origin rule to [8888] in Cloudflare.
+----------------------------
+vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@45.59.118.91:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=http&encryption=none#ArashSB%20h2-reality-vision
+----------------------------
+vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@45.59.118.91:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality-vision
