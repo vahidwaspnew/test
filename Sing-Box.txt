@@ -50,3 +50,31 @@ Please set the ip [178.255.222.229] to domain [vls.jouhatsu.sbs], and set the or
 vless://9819decb-2c46-4eb1-b6d8-8951861bf4b5@king.jouhatsu.sbs:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=m59NKC4knW610JgdJKiiQE3uKdvjnI_0Sy3U3RpnElM&type=http&encryption=none#KingSB%20h2-reality-vision
 ----------------------------
 vless://9819decb-2c46-4eb1-b6d8-8951861bf4b5@king.jouhatsu.sbs:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=m59NKC4knW610JgdJKiiQE3uKdvjnI_0Sy3U3RpnElM&type=grpc&serviceName=grpc&encryption=none#KingSB%20grpc-reality-vision
+============================
+============================
+vless://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@queen.jouhatsu.sbs:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=1iT-xs_RiYrETxqARZ4lsdQCCI0Cb75LXffvY8R0ink&type=tcp&encryption=none#QueenSB%20xtls-reality
+----------------------------
+hy2://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@queen.jouhatsu.sbs:8882?insecure=1#QueenSB hysteria2
+
+----------------------------
+tuic://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861:a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@queen.jouhatsu.sbs:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#QueenSB tuic
+----------------------------
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImE1YjdkNGFkLTdjNmEtNGE0MS04MmRhLWY4ZmQyOWM4MDg2MVwiLFxuICAgIFwic2VydmVyXCI6IFwiMTk0LjExNi4yMTQuMTAzXCIsXG4gICAgXCJzZXJ2ZXJfcG9ydFwiOiA4ODg0LFxuICAgIFwidGFnXCI6IFwic2hhZG93dGxzLW91dFwiLFxuICAgIFwidGxzXCI6IHtcbiAgICAgICAgXCJlbmFibGVkXCI6IHRydWUsXG4gICAgICAgIFwic2VydmVyX25hbWVcIjogXCJhZGRvbnMubW96aWxsYS5vcmdcIlxuICAgIH0sXG4gICAgXCJ0eXBlXCI6IFwic2hhZG93dGxzXCIsXG4gICAgXCJ2ZXJzaW9uXCI6IDNcbn1cbiIsIm1hcHBpbmdfcG9ydCI6MCwibmFtZSI6IjEtdGxzLW5vdC11c2UiLCJwb3J0IjoxMDgwLCJzb2Nrc19wb3J0IjowfQ==
+
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6InF3ODNsYVNEODlsWUtHS3cyMFR2WVE9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
+
+ ShadowTLS - Copy the above two Neko links and manually set up the chained proxies in order. Tutorial: https://github.com/fscarmen/sing-box/blob/main/README.md#sekobox-%E8%AE%BE%E7%BD%AE-shadowtls-%E6%96%B9%E6%B3%95
+----------------------------
+ss://YWVzLTEyOC1nY206YTViN2Q0YWQtN2M2YS00YTQxLTgyZGEtZjhmZDI5YzgwODYx@queen.jouhatsu.sbs:8885#QueenSB shadowsocks
+----------------------------
+trojan://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@queen.jouhatsu.sbs:8886?security=tls&allowInsecure=1&fp=random&type=tcp#QueenSB trojan
+----------------------------
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMyLmpvdWhhdHN1LnNicyIsImlkIjoiYTViN2Q0YWQtN2M2YS00YTQxLTgyZGEtZjhmZDI5YzgwODYxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2E1YjdkNGFkLTdjNmEtNGE0MS04MmRhLWY4ZmQyOWM4MDg2MS12bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiUXVlZW5TQiB2bWVzcy13cyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+Please set the ip [194.116.214.103] to domain [vms2.jouhatsu.sbs], and set the origin rule to [8887] in Cloudflare.----------------------------
+vless://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@time.cloudflare.com:443?security=tls&sni=vls2.jouhatsu.sbs&type=ws&path=/a5b7d4ad-7c6a-4a41-82da-f8fd29c80861-vless?ed%3D2048&host=vls2.jouhatsu.sbs&encryption=none#QueenSB%20vless-ws-tls
+
+Please set the ip [194.116.214.103] to domain [vls2.jouhatsu.sbs], and set the origin rule to [8888] in Cloudflare.----------------------------
+vless://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@queen.jouhatsu.sbs:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=1iT-xs_RiYrETxqARZ4lsdQCCI0Cb75LXffvY8R0ink&type=http&encryption=none#QueenSB%20h2-reality
+----------------------------
+vless://a5b7d4ad-7c6a-4a41-82da-f8fd29c80861@queen.jouhatsu.sbs:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=1iT-xs_RiYrETxqARZ4lsdQCCI0Cb75LXffvY8R0ink&type=grpc&serviceName=grpc&encryption=none#QueenSB%20grpc-reality
