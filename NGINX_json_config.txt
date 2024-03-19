@@ -1,0 +1,33 @@
+server {
+        listen 80;
+        listen [::]:80;
+        server_name REPLACE_IT_WITH_YOUR_HOST;
+        if ($host = REPLACE_IT_WITH_YOUR_HOST) {
+                return 301 https://$host$request_uri;
+        }
+        return 404;
+}
+
+server {
+        listen       1001 proxy_protocol;
+        listen       1002 http2 proxy_protocol;
+
+        server_name REPLACE_IT_WITH_YOUR_HOST;
+
+        root         /var/www/html;
+
+        set_real_ip_from 127.0.0.1;
+
+        location / {
+                default_type application/json;
+                set $random_response_code 1;
+                rewrite ^ /index.php last;
+        }
+        location ~ \.php$ {
+        fastcgi_pass   unix:/var/run/php/php-fpm.sock;
+        fastcgi_index  index.php;
+        fastcgi_param  SCRIPT_FILENAME  $document_root$fastcgi_script_name;
+        include        fastcgi_params;
+        add_header     Strict-Transport-Security "max-age=63072000" always;
+    }
+}
