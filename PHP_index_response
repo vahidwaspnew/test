@@ -1,0 +1,60 @@
+<?php
+
+function generateRandomMaze() {
+    $rows = 50;
+    $cols = 50;
+
+    $maze = array_fill(0, $rows, array_fill(0, $cols, 1));
+
+    $start = [0, rand(1, $cols - 2)];
+    $end = [$rows - 1, rand(1, $cols - 2)];
+
+    generatePath($maze, $start[0], $start[1], $end[0], $end[1]);
+
+    return $maze;
+}
+
+function generatePath(&$maze, $currentRow, $currentCol, $endRow, $endCol) {
+    $directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]; // Up, Down, Left, Right
+    shuffle($directions);
+
+    foreach ($directions as $dir) {
+        $newRow = $currentRow + 2 * $dir[0];
+        $newCol = $currentCol + 2 * $dir[1];
+
+        if ($newRow >= 0 && $newRow < count($maze) && $newCol >= 0 && $newCol < count($maze[0]) && $maze[$newRow][$newCol] == 1) {
+            $maze[$currentRow + $dir[0]][$currentCol + $dir[1]] = 0;
+            $maze[$newRow][$newCol] = 0;
+
+            generatePath($maze, $newRow, $newCol, $endRow, $endCol);
+        }
+    }
+}
+
+$requestPath = $_SERVER['REQUEST_URI'];
+$responseCode = crc32($requestPath);
+
+if ($requestPath === "/") {
+
+    $randomMaze = generateRandomMaze();
+    $response = [
+        'requested_path' => $requestPath,
+        'code' => $responseCode,
+        'status_code' => 200,
+        'message' => 'Random Maze',
+        'maze' => $randomMaze
+    ];
+} else {
+    $response = [
+        'requested_path' => $requestPath,
+        'code' => $responseCode,
+        'status_code' => 404,
+        'message' => 'Path Not Found Or Restricted'
+    ];
+}
+
+header('Content-Type: application/json');
+
+echo json_encode($response);
+
+?>
