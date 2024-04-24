@@ -27,28 +27,3 @@ vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8889?security=
 vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality-vision
 ============================
 ============================
-vless://464171e2-88cc-407e-9012-1cf8ffc4d98c@queen.jouhatsu.sbs:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=x0n9P018SD0t9W50iI2jUmef7yoBio-KcTFyjPAiRz0&type=tcp&encryption=none#QueenSB%20xtls-reality
-----------------------------
-hy2://464171e2-88cc-407e-9012-1cf8ffc4d98c@queen.jouhatsu.sbs:8882?insecure=1#QueenSB hysteria2
-----------------------------
-tuic://464171e2-88cc-407e-9012-1cf8ffc4d98c:464171e2-88cc-407e-9012-1cf8ffc4d98c@queen.jouhatsu.sbs:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#QueenSB tuic
-----------------------------
-nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcIjQ2NDE3MWUyLTg4Y2MtNDA3ZS05MDEyLTFjZjhmZmM0ZDk4Y1wiLFxuICAgIFwic2VydmVyXCI6IFwicXVlZW4uam91aGF0c3Uuc2JzXCIsXG4gICAgXCJzZXJ2ZXJfcG9ydFwiOiA4ODg0LFxuICAgIFwidGFnXCI6IFwic2hhZG93dGxzLW91dFwiLFxuICAgIFwidGxzXCI6IHtcbiAgICAgICAgXCJlbmFibGVkXCI6IHRydWUsXG4gICAgICAgIFwic2VydmVyX25hbWVcIjogXCJhZGRvbnMubW96aWxsYS5vcmdcIlxuICAgIH0sXG4gICAgXCJ0eXBlXCI6IFwic2hhZG93dGxzXCIsXG4gICAgXCJ2ZXJzaW9uXCI6IDNcbn1cbiIsIm1hcHBpbmdfcG9ydCI6MCwibmFtZSI6IjEtdGxzLW5vdC11c2UiLCJwb3J0IjoxMDgwLCJzb2Nrc19wb3J0IjowfQ==
-
-nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6ImlCVmViTGQxSEZjcmRJbUZGSVltREE9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
-----------------------------
-ss://YWVzLTEyOC1nY206NDY0MTcxZTItODhjYy00MDdlLTkwMTItMWNmOGZmYzRkOThj@queen.jouhatsu.sbs:8885#QueenSB shadowsocks
-----------------------------
-trojan://464171e2-88cc-407e-9012-1cf8ffc4d98c@queen.jouhatsu.sbs:8886?security=tls&allowInsecure=1&fp=random&type=tcp#QueenSB trojan
-----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuam91aGF0c3Uuc2JzIiwiaWQiOiI0NjQxNzFlMi04OGNjLTQwN2UtOTAxMi0xY2Y4ZmZjNGQ5OGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNDY0MTcxZTItODhjYy00MDdlLTkwMTItMWNmOGZmYzRkOThjLXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJRdWVlblNCIHZtZXNzLXdzIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-# Please set the ip [queen.jouhatsu.sbs] to domain [vms.jouhatsu.sbs], and set the origin rule to [8887] in Cloudflare.
-----------------------------
-vless://464171e2-88cc-407e-9012-1cf8ffc4d98c@time.cloudflare.com:443?security=tls&sni=vls.jouhatsu.sbs&type=ws&path=/464171e2-88cc-407e-9012-1cf8ffc4d98c-vless?ed%3D2048&host=vls.jouhatsu.sbs&encryption=none#QueenSB%20vless-ws-tls
-# Please set the ip [queen.jouhatsu.sbs] to domain [vls.jouhatsu.sbs], and set the origin rule to [8888] in Cloudflare.
-----------------------------
-vless://464171e2-88cc-407e-9012-1cf8ffc4d98c@queen.jouhatsu.sbs:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=x0n9P018SD0t9W50iI2jUmef7yoBio-KcTFyjPAiRz0&type=http&encryption=none#QueenSB%20h2-reality
-----------------------------
-vless://464171e2-88cc-407e-9012-1cf8ffc4d98c@queen.jouhatsu.sbs:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=x0n9P018SD0t9W50iI2jUmef7yoBio-KcTFyjPAiRz0&type=grpc&serviceName=grpc&encryption=none#QueenSB%20grpc-reality
-============================
