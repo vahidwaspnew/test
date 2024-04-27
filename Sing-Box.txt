@@ -41,9 +41,9 @@ ss://YWVzLTEyOC1nY206M2QwMTc1NTQtNDAwYy00MjZlLThhMjYtMDRhNmJlYjMyYTJh@hfy.haryal
 ----------------------------
 trojan://3d017554-400c-426e-8a26-04a6beb32a2a@hfy.haryalclinic.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#VisionSB trojan
 ----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJhZ28uaGFyeWFsY2xpbmljLmNvbSIsImlkIjoiM2QwMTc1NTQtNDAwYy00MjZlLThhMjYtMDRhNmJlYjMyYTJhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzNkMDE3NTU0LTQwMGMtNDI2ZS04YTI2LTA0YTZiZWIzMmEyYS12bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiVmlzaW9uU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuaGFyeWFsY2xpbmljLmNvbSIsImlkIjoiM2QwMTc1NTQtNDAwYy00MjZlLThhMjYtMDRhNmJlYjMyYTJhIiwibmV0Ijoid3MiLCJwYXRoIjoiLzNkMDE3NTU0LTQwMGMtNDI2ZS04YTI2LTA0YTZiZWIzMmEyYS12bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiVmlzaW9uU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ----------------------------
-vless://3d017554-400c-426e-8a26-04a6beb32a2a@time.cloudflare.com:443?security=tls&sni=ago.haryalclinic.com&type=ws&path=/3d017554-400c-426e-8a26-04a6beb32a2a-vless?ed%3D2048&host=ago.haryalclinic.com&encryption=none#VisionSB%20vless-ws-tls
+vless://3d017554-400c-426e-8a26-04a6beb32a2a@time.cloudflare.com:443?security=tls&sni=vls.haryalclinic.com&type=ws&path=/3d017554-400c-426e-8a26-04a6beb32a2a-vless?ed%3D2048&host=vls.haryalclinic.com&encryption=none#VisionSB%20vless-ws-tls
 ----------------------------
 vless://3d017554-400c-426e-8a26-04a6beb32a2a@hfy.haryalclinic.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=KrKkrikUkc8HkET4LR3FuKdGkHGHHpPKc8KpvZJkGz4&type=http&encryption=none#VisionSB%20h2-reality
 ----------------------------
