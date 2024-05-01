@@ -63,9 +63,9 @@ ss://YWVzLTEyOC1nY206YWY3ZDc1ZjktYjljNi00ZDUxLTlmNGEtMDlmMGE2ZGRlYmFm@king.jouha
 ----------------------------
 trojan://af7d75f9-b9c6-4d51-9f4a-09f0a6ddebaf@king.jouhatsu.sbs:8886?security=tls&allowInsecure=1&fp=random&type=tcp#KingSB trojan
 ----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJhZ28yLmpvdWhhdHN1LnNicyIsImlkIjoiYWY3ZDc1ZjktYjljNi00ZDUxLTlmNGEtMDlmMGE2ZGRlYmFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FmN2Q3NWY5LWI5YzYtNGQ1MS05ZjRhLTA5ZjBhNmRkZWJhZi12bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiS2luZ1NCIHZtZXNzLXdzIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuam91aGF0c3Uuc2JzIiwiaWQiOiJhZjdkNzVmOS1iOWM2LTRkNTEtOWY0YS0wOWYwYTZkZGViYWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWY3ZDc1ZjktYjljNi00ZDUxLTlmNGEtMDlmMGE2ZGRlYmFmLXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJLaW5nU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ----------------------------
-vless://af7d75f9-b9c6-4d51-9f4a-09f0a6ddebaf@time.cloudflare.com:443?security=tls&sni=ago2.jouhatsu.sbs&type=ws&path=/af7d75f9-b9c6-4d51-9f4a-09f0a6ddebaf-vless?ed%3D2048&host=ago2.jouhatsu.sbs&encryption=none#KingSB%20vless-ws-tls
+vless://af7d75f9-b9c6-4d51-9f4a-09f0a6ddebaf@time.cloudflare.com:443?security=tls&sni=vls.jouhatsu.sbs&type=ws&path=/af7d75f9-b9c6-4d51-9f4a-09f0a6ddebaf-vless?ed%3D2048&host=ago2.jouhatsu.sbs&encryption=none#KingSB%20vless-ws-tls
 ----------------------------
 vless://af7d75f9-b9c6-4d51-9f4a-09f0a6ddebaf@king.jouhatsu.sbs:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=3rHcxtWduJQc--jqF1RZnE_dErP5kL630uKMUNZxSmg&type=http&encryption=none#KingSB%20h2-reality
 ----------------------------
