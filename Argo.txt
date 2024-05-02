@@ -12,13 +12,6 @@ vmess://eyAidiI6ICIyIiwgInBzIjogIkFyYXNoQXJnb1gtVm0iLCAiYWRkIjogInRpbWUuY2xvdWRm
 trojan://5f3fae2d-f749-4ba2-ac39-8bd9c5e9494a@time.cloudflare.com:443?security=tls&sni=a01.haryalclinic.com&type=ws&host=a01.haryalclinic.com&path=%2Fargox-tr?ed=2048#ArashArgoX-Tr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZjNmYWUyZC1mNzQ5LTRiYTItYWMzOS04YmQ5YzVlOTQ5NGFAdGltZS5jbG91ZGZsYXJlLmNvbTo0NDMK@time.cloudflare.com:443#ArashArgoX-Sh
 
-vless://d8984259-25c3-4bdd-87db-141b7020d8e6@king.jouhatsu.sbs:22539?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pEca_ocD3S7qcCJZcd4YrJqHwruZup62dJ9lFAazFks&type=tcp&headerType=none#KingArgoX reality-vision
-vless://d8984259-25c3-4bdd-87db-141b7020d8e6@king.jouhatsu.sbs:22539?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pEca_ocD3S7qcCJZcd4YrJqHwruZup62dJ9lFAazFks&type=grpc&serviceName=grpc&encryption=none#KingArgoX reality-grpc
-vless://d8984259-25c3-4bdd-87db-141b7020d8e6@time.cloudflare.com:443?encryption=none&security=tls&sni=ago.jouhatsu.sbs&type=ws&host=ago.jouhatsu.sbs&path=%2Fargox-vl%3Fed%3D2048#KingArgoX-Vl
-vmess://eyAidiI6ICIyIiwgInBzIjogIktpbmdBcmdvWC1WbSIsICJhZGQiOiAidGltZS5jbG91ZGZsYXJlLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJkODk4NDI1OS0yNWMzLTRiZGQtODdkYi0xNDFiNzAyMGQ4ZTYiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImFnby5qb3VoYXRzdS5zYnMiLCAicGF0aCI6ICIvYXJnb3gtdm0/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhZ28uam91aGF0c3Uuc2JzIiwgImFscG4iOiAiIiB9
-trojan://d8984259-25c3-4bdd-87db-141b7020d8e6@time.cloudflare.com:443?security=tls&sni=ago.jouhatsu.sbs&type=ws&host=ago.jouhatsu.sbs&path=/argox-tr?ed%3D2048#KingArgoX-Tr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODk4NDI1OS0yNWMzLTRiZGQtODdkYi0xNDFiNzAyMGQ4ZTY=@time.cloudflare.com:443#KingArgoX-Sh
-
 vless://8d1483c3-812e-4e13-a630-7d0696741933@queen.jouhatsu.sbs:3477?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=7Vso5dO9aO_byatUehdVdxna-7mVSnqCMLPOrzi-tRc&type=tcp&headerType=none#QueenArgoX reality-vision
 vless://8d1483c3-812e-4e13-a630-7d0696741933@queen.jouhatsu.sbs:3477?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=7Vso5dO9aO_byatUehdVdxna-7mVSnqCMLPOrzi-tRc&type=grpc&serviceName=grpc&encryption=none#QueenArgoX reality-grpc
 vless://8d1483c3-812e-4e13-a630-7d0696741933@time.cloudflare.com:443?encryption=none&security=tls&sni=agoqueen.jouhatsu.sbs&type=ws&host=agoqueen.jouhatsu.sbs&path=%2Fargox-vl%3Fed%3D2048#QueenArgoX-Vl
