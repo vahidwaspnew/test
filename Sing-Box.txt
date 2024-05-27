@@ -1,30 +1,24 @@
-vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=tcp&encryption=none#ArashSB%20xtls-reality
+vless://bb7c3b01-3081-423c-b479-559de1a55101@new.haryalclinic.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HFL4n30tmdwm8esOnoiPhGiEp-k9Cte3zAtjasasnxo&type=tcp&encryption=none#ArashSB%20xtls-reality
 ----------------------------
-hy2://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8882?obfs=salamander&obfs-password=d693b159-3f2f-4fda-ae78-75c7ccbf90e8&insecure=1#ArashSB%20hysteria2
+hy2://bb7c3b01-3081-423c-b479-559de1a55101@new.haryalclinic.com:8882?insecure=1#ArashSB hysteria2
 ----------------------------
-tuic://d693b159-3f2f-4fda-ae78-75c7ccbf90e8:d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#ArashSB%20tuic
+tuic://bb7c3b01-3081-423c-b479-559de1a55101:bb7c3b01-3081-423c-b479-559de1a55101@new.haryalclinic.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#ArashSB tuic
 ----------------------------
-nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImQ2OTNiMTU5LTNmMmYtNGZkYS1hZTc4LTc1YzdjY2JmOTBlOFwiLFxuICAgIFwic2VydmVyXCI6IFwibmV3LmhhcnlhbGNsaW5pYy5jb21cIixcbiAgICBcInNlcnZlcl9wb3J0XCI6IDg4ODQsXG4gICAgXCJ0YWdcIjogXCJzaGFkb3d0bHMtb3V0XCIsXG4gICAgXCJ0bHNcIjoge1xuICAgICAgICBcImVuYWJsZWRcIjogdHJ1ZSxcbiAgICAgICAgXCJzZXJ2ZXJfbmFtZVwiOiBcImFkZG9ucy5tb3ppbGxhLm9yZ1wiXG4gICAgfSxcbiAgICBcInR5cGVcIjogXCJzaGFkb3d0bHNcIixcbiAgICBcInZlcnNpb25cIjogM1xufVxuIiwibWFwcGluZ19wb3J0IjowLCJuYW1lIjoiMS10bHMtbm90LXVzZSIsInBvcnQiOjEwODAsInNvY2tzX3BvcnQiOjB9
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImJiN2MzYjAxLTMwODEtNDIzYy1iNDc5LTU1OWRlMWE1NTEwMVwiLFxuICAgIFwic2VydmVyXCI6IFwibmV3LmhhcnlhbGNsaW5pYy5jb21cIixcbiAgICBcInNlcnZlcl9wb3J0XCI6IDg4ODQsXG4gICAgXCJ0YWdcIjogXCJzaGFkb3d0bHMtb3V0XCIsXG4gICAgXCJ0bHNcIjoge1xuICAgICAgICBcImVuYWJsZWRcIjogdHJ1ZSxcbiAgICAgICAgXCJzZXJ2ZXJfbmFtZVwiOiBcImFkZG9ucy5tb3ppbGxhLm9yZ1wiXG4gICAgfSxcbiAgICBcInR5cGVcIjogXCJzaGFkb3d0bHNcIixcbiAgICBcInZlcnNpb25cIjogM1xufVxuIiwibWFwcGluZ19wb3J0IjowLCJuYW1lIjoiMS10bHMtbm90LXVzZSIsInBvcnQiOjEwODAsInNvY2tzX3BvcnQiOjB9
 
-nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6InVucHgyQjN2cUwxNUhmSWFqWG5wTmc9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9Cg==
-
- ShadowTLS - Copy the above two Neko links and manually set up the chained proxies in order. Tutorial: https://github.com/fscarmen/sing-box/blob/main/README.md#sekobox-%E8%AE%BE%E7%BD%AE-shadowtls-%E6%96%B9%E6%B3%95
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6Ikt4Z0hOZW1iaTgyVnlKeUtYL0dENlE9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
 ----------------------------
-ss://YWVzLTEyOC1nY206ZDY5M2IxNTktM2YyZi00ZmRhLWFlNzgtNzVjN2NjYmY5MGU4@new.haryalclinic.com:8885#ArashSB%20ss
+ss://YWVzLTEyOC1nY206YmI3YzNiMDEtMzA4MS00MjNjLWI0NzktNTU5ZGUxYTU1MTAx@new.haryalclinic.com:8885#ArashSB shadowsocks
 ----------------------------
-trojan://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#ArashSB%20trojan
+trojan://bb7c3b01-3081-423c-b479-559de1a55101@new.haryalclinic.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#ArashSB trojan
 ----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5oYXJ5YWxjbGluaWMuY29tIiwiaWQiOiJkNjkzYjE1OS0zZjJmLTRmZGEtYWU3OC03NWM3Y2NiZjkwZTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDY5M2IxNTktM2YyZi00ZmRhLWFlNzgtNzVjN2NjYmY5MGU4LXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJBcmFzaFNCIHZtZXNzIHdzIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-Please set the ip [45.59.118.91] to domain [vmess.haryalclinic.com], and set the origin rule to [8887] in Cloudflare.
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJhMDEuaGFyeWFsY2xpbmljLmNvbSIsImlkIjoiYmI3YzNiMDEtMzA4MS00MjNjLWI0NzktNTU5ZGUxYTU1MTAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2JiN2MzYjAxLTMwODEtNDIzYy1iNDc5LTU1OWRlMWE1NTEwMS12bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQXJhc2hTQiB2bWVzcy13cyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ----------------------------
-vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@time.cloudflare.com:443?security=tls&sni=vless.haryalclinic.com&type=ws&path=/d693b159-3f2f-4fda-ae78-75c7ccbf90e8-vless?ed%3D2048&host=vless.haryalclinic.com&encryption=none#ArashSB%20vless%20ws
-
-Please set the ip [45.59.118.91] to domain [vless.haryalclinic.com], and set the origin rule to [8888] in Cloudflare.
+vless://bb7c3b01-3081-423c-b479-559de1a55101@time.cloudflare.com:443?security=tls&sni=a01.haryalclinic.com&type=ws&path=/bb7c3b01-3081-423c-b479-559de1a55101-vless?ed%3D2048&host=a01.haryalclinic.com&encryption=none#ArashSB%20vless-ws-tls
 ----------------------------
-vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=http&encryption=none#ArashSB%20h2-reality-vision
+vless://bb7c3b01-3081-423c-b479-559de1a55101@new.haryalclinic.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=HFL4n30tmdwm8esOnoiPhGiEp-k9Cte3zAtjasasnxo&type=http&encryption=none#ArashSB%20h2-reality
 ----------------------------
-vless://d693b159-3f2f-4fda-ae78-75c7ccbf90e8@new.haryalclinic.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HHw9kU4qMB6QJ6h4I2SUCosx2zrPW4OWS0ws6-AABQY&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality-vision
+vless://bb7c3b01-3081-423c-b479-559de1a55101@new.haryalclinic.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=HFL4n30tmdwm8esOnoiPhGiEp-k9Cte3zAtjasasnxo&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality
 ============================
 ============================
 vless://3d017554-400c-426e-8a26-04a6beb32a2a@hfy.haryalclinic.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=KrKkrikUkc8HkET4LR3FuKdGkHGHHpPKc8KpvZJkGz4&type=tcp&encryption=none#VisionSB%20xtls-reality
