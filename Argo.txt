@@ -5,9 +5,9 @@ vmess://eyAidiI6ICIyIiwgInBzIjogIlZpc2lvbkFyZ29YLVZtIiwgImFkZCI6ICJ0aW1lLmNsb3Vk
 trojan://12317b56-2c0d-47df-850e-24793995c8f9@time.cloudflare.com:443?security=tls&sni=ago.haryalclinic.com&type=ws&host=ago.haryalclinic.com&path=/argox-tr?ed%3D2048#VisionArgoX-Tr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjMxN2I1Ni0yYzBkLTQ3ZGYtODUwZS0yNDc5Mzk5NWM4Zjk=@time.cloudflare.com:443#VisionArgoX-Sh
 
-vless://507e5f25-cdfd-4114-ae7e-017c84bc0760@cat.beranti.com:33492?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=5qVJJ2J5ZZ_HQ51t9rcdAN_fdTz_h80OfULm0fCph1U&type=tcp&headerType=none#ArashArgoX reality-vision
-vless://507e5f25-cdfd-4114-ae7e-017c84bc0760@cat.beranti.com:33492?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=5qVJJ2J5ZZ_HQ51t9rcdAN_fdTz_h80OfULm0fCph1U&type=grpc&serviceName=grpc&encryption=none#ArashArgoX reality-grpc
-vless://507e5f25-cdfd-4114-ae7e-017c84bc0760@time.cloudflare.com:443?encryption=none&security=tls&sni=a01.beranti.com&type=ws&host=a01.beranti.com&path=%2Fargox-vl%3Fed%3D2048#ArashArgoX-Vl
-vmess://eyAidiI6ICIyIiwgInBzIjogIkFyYXNoQXJnb1gtVm0iLCAiYWRkIjogInRpbWUuY2xvdWRmbGFyZS5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNTA3ZTVmMjUtY2RmZC00MTE0LWFlN2UtMDE3Yzg0YmMwNzYwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJub25lIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJhMDEuYmVyYW50aS5jb20iLCAicGF0aCI6ICIvYXJnb3gtdm0/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhMDEuYmVyYW50aS5jb20iLCAiYWxwbiI6ICIiIH0=
-trojan://507e5f25-cdfd-4114-ae7e-017c84bc0760@time.cloudflare.com:443?security=tls&sni=a01.beranti.com&type=ws&host=a01.beranti.com&path=/argox-tr?ed%3D2048#ArashArgoX-Tr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MDdlNWYyNS1jZGZkLTQxMTQtYWU3ZS0wMTdjODRiYzA3NjA=@time.cloudflare.com:443#ArashArgoX-Sh
+vless://971db94c-19d1-4295-af37-655cb7d01121@cat.beranti.com:11764?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=1C2AM-BHQXMQVjBZJxZq8QcuwCxxu2lKCuFMYWJSYkQ&type=tcp&headerType=none#ArashArgoX reality-vision
+vless://971db94c-19d1-4295-af37-655cb7d01121@cat.beranti.com:11764?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=1C2AM-BHQXMQVjBZJxZq8QcuwCxxu2lKCuFMYWJSYkQ&type=grpc&serviceName=grpc&encryption=none#ArashArgoX reality-grpc
+vless://971db94c-19d1-4295-af37-655cb7d01121@time.cloudflare.com:443?encryption=none&security=tls&sni=a01.beranti.com&type=ws&host=a01.beranti.com&path=%2Fargox-vl%3Fed%3D2048#ArashArgoX-Vl
+vmess://eyAidiI6ICIyIiwgInBzIjogIkFyYXNoQXJnb1gtVm0iLCAiYWRkIjogInRpbWUuY2xvdWRmbGFyZS5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiOTcxZGI5NGMtMTlkMS00Mjk1LWFmMzctNjU1Y2I3ZDAxMTIxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJub25lIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJhMDEuYmVyYW50aS5jb20iLCAicGF0aCI6ICIvYXJnb3gtdm0/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhMDEuYmVyYW50aS5jb20iLCAiYWxwbiI6ICIiIH0=
+trojan://971db94c-19d1-4295-af37-655cb7d01121@time.cloudflare.com:443?security=tls&sni=a01.beranti.com&type=ws&host=a01.beranti.com&path=/argox-tr?ed%3D2048#ArashArgoX-Tr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NzFkYjk0Yy0xOWQxLTQyOTUtYWYzNy02NTVjYjdkMDExMjE=@time.cloudflare.com:443#ArashArgoX-Sh
