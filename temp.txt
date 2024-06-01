@@ -17,7 +17,8 @@ nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLC
 ----------------------------
 ss://YWVzLTEyOC1nY206YzJjYjUyNzctYzZlNi00MWVmLWJlODEtMDVlNDZjZTVhNDM4@cat.jouhatsu.sbs:8885#CloudSigmaSB shadowsocks
 ----------------------------
-trojan://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8886?security=tls&allowInsecure=1&fp=random&type=tcp#CloudSigmaSB trojan----------------------------
+trojan://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8886?security=tls&allowInsecure=1&fp=random&type=tcp#CloudSigmaSB trojan
+----------------------------
 vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJhZ28uam91aGF0c3Uuc2JzIiwiaWQiOiJjMmNiNTI3Ny1jNmU2LTQxZWYtYmU4MS0wNWU0NmNlNWE0MzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYzJjYjUyNzctYzZlNi00MWVmLWJlODEtMDVlNDZjZTVhNDM4LXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJDbG91ZFNpZ21hU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ----------------------------
 vless://c2cb5277-c6e6-41ef-be81-05e46ce5a438@time.cloudflare.com:443?security=tls&sni=ago.jouhatsu.sbs&type=ws&path=/c2cb5277-c6e6-41ef-be81-05e46ce5a438-vless?ed%3D2048&host=ago.jouhatsu.sbs&encryption=none#CloudSigmaSB%20vless-ws-tls
