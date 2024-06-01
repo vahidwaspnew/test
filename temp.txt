@@ -1,0 +1,27 @@
+vless://33b2bbab-28d7-4bf0-9e01-fa6e99dfdde4@cat.jouhatsu.sbs:2770?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=vnGAH4Brv0Bv5HnAt3bpzW_ZTEYjwW-928yDZbHURic&type=tcp&headerType=none#CloudSigmaArgoX reality-vision
+vless://33b2bbab-28d7-4bf0-9e01-fa6e99dfdde4@cat.jouhatsu.sbs:2770?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=vnGAH4Brv0Bv5HnAt3bpzW_ZTEYjwW-928yDZbHURic&type=grpc&serviceName=grpc&encryption=none#CloudSigmaArgoX reality-grpc
+vless://33b2bbab-28d7-4bf0-9e01-fa6e99dfdde4@time.cloudflare.com:443?encryption=none&security=tls&sni=ago.jouhatsu.sbs&type=ws&host=ago.jouhatsu.sbs&path=%2Fargox-vl%3Fed%3D2048#CloudSigmaArgoX-Vl
+vmess://eyAidiI6ICIyIiwgInBzIjogIkNsb3VkU2lnbWFBcmdvWC1WbSIsICJhZGQiOiAidGltZS5jbG91ZGZsYXJlLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIzM2IyYmJhYi0yOGQ3LTRiZjAtOWUwMS1mYTZlOTlkZmRkZTQiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImFnby5qb3VoYXRzdS5zYnMiLCAicGF0aCI6ICIvYXJnb3gtdm0/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhZ28uam91aGF0c3Uuc2JzIiwgImFscG4iOiAiIiB9
+trojan://33b2bbab-28d7-4bf0-9e01-fa6e99dfdde4@time.cloudflare.com:443?security=tls&sni=ago.jouhatsu.sbs&type=ws&host=ago.jouhatsu.sbs&path=/argox-tr?ed%3D2048#CloudSigmaArgoX-Tr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM2IyYmJhYi0yOGQ3LTRiZjAtOWUwMS1mYTZlOTlkZmRkZTQ=@time.cloudflare.com:443#CloudSigmaArgoX-Sh
+================================================================================================================================
+vless://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Oi87aGcEm5WeYeJ16PzHuxRAwoLwD7VhPxAAofPmngE&type=tcp&encryption=none#CloudSigmaSB%20xtls-reality
+----------------------------
+hy2://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8882?insecure=1#CloudSigmaSB hysteria2
+----------------------------
+tuic://c2cb5277-c6e6-41ef-be81-05e46ce5a438:c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#CloudSigmaSB tuic
+----------------------------
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImMyY2I1Mjc3LWM2ZTYtNDFlZi1iZTgxLTA1ZTQ2Y2U1YTQzOFwiLFxuICAgIFwic2VydmVyXCI6IFwiY2F0LmpvdWhhdHN1LnNic1wiLFxuICAgIFwic2VydmVyX3BvcnRcIjogODg4NCxcbiAgICBcInRhZ1wiOiBcInNoYWRvd3Rscy1vdXRcIixcbiAgICBcInRsc1wiOiB7XG4gICAgICAgIFwiZW5hYmxlZFwiOiB0cnVlLFxuICAgICAgICBcInNlcnZlcl9uYW1lXCI6IFwiYWRkb25zLm1vemlsbGEub3JnXCJcbiAgICB9LFxuICAgIFwidHlwZVwiOiBcInNoYWRvd3Rsc1wiLFxuICAgIFwidmVyc2lvblwiOiAzXG59XG4iLCJtYXBwaW5nX3BvcnQiOjAsIm5hbWUiOiIxLXRscy1ub3QtdXNlIiwicG9ydCI6MTA4MCwic29ja3NfcG9ydCI6MH0=
+
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6InBNRjl0V0tyaFV4YzBOWkI3dktPcGc9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
+----------------------------
+ss://YWVzLTEyOC1nY206YzJjYjUyNzctYzZlNi00MWVmLWJlODEtMDVlNDZjZTVhNDM4@cat.jouhatsu.sbs:8885#CloudSigmaSB shadowsocks
+----------------------------
+trojan://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8886?security=tls&allowInsecure=1&fp=random&type=tcp#CloudSigmaSB trojan----------------------------
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJhZ28uam91aGF0c3Uuc2JzIiwiaWQiOiJjMmNiNTI3Ny1jNmU2LTQxZWYtYmU4MS0wNWU0NmNlNWE0MzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYzJjYjUyNzctYzZlNi00MWVmLWJlODEtMDVlNDZjZTVhNDM4LXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJDbG91ZFNpZ21hU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+----------------------------
+vless://c2cb5277-c6e6-41ef-be81-05e46ce5a438@time.cloudflare.com:443?security=tls&sni=ago.jouhatsu.sbs&type=ws&path=/c2cb5277-c6e6-41ef-be81-05e46ce5a438-vless?ed%3D2048&host=ago.jouhatsu.sbs&encryption=none#CloudSigmaSB%20vless-ws-tls
+----------------------------
+vless://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=Oi87aGcEm5WeYeJ16PzHuxRAwoLwD7VhPxAAofPmngE&type=http&encryption=none#CloudSigmaSB%20h2-reality
+----------------------------
+vless://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Oi87aGcEm5WeYeJ16PzHuxRAwoLwD7VhPxAAofPmngE&type=grpc&serviceName=grpc&encryption=none#CloudSigmaSB%20grpc-reality
