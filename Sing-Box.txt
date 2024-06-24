@@ -12,9 +12,9 @@ ss://YWVzLTEyOC1nY206ODE4NGNjNGUtMGE0My00MTE5LWE1NWItM2YwYjQ5YmRjNDRi@cat.berant
 ----------------------------
 trojan://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#ArashSB trojan
 ----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJhMDEuYmVyYW50aS5jb20iLCJpZCI6IjgxODRjYzRlLTBhNDMtNDExOS1hNTViLTNmMGI0OWJkYzQ0YiIsIm5ldCI6IndzIiwicGF0aCI6Ii84MTg0Y2M0ZS0wYTQzLTQxMTktYTU1Yi0zZjBiNDliZGM0NGItdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkFyYXNoU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuYmVyYW50aS5jb20iLCJpZCI6IjgxODRjYzRlLTBhNDMtNDExOS1hNTViLTNmMGI0OWJkYzQ0YiIsIm5ldCI6IndzIiwicGF0aCI6Ii84MTg0Y2M0ZS0wYTQzLTQxMTktYTU1Yi0zZjBiNDliZGM0NGItdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkFyYXNoU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ----------------------------
-vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@time.cloudflare.com:443?security=tls&sni=a01.beranti.com&type=ws&path=/8184cc4e-0a43-4119-a55b-3f0b49bdc44b-vless?ed%3D2048&host=a01.beranti.com&encryption=none#ArashSB%20vless-ws-tls
+vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@time.cloudflare.com:443?security=tls&sni=vls.beranti.com&type=ws&path=/8184cc4e-0a43-4119-a55b-3f0b49bdc44b-vless?ed%3D2048&host=vls.beranti.com&encryption=none#ArashSB%20vless-ws-tls
 ----------------------------
 vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=Qyuh6U_JRzXmiPFtBufpWob8NhIAjwZLKVhYrbcbbWE&type=http&encryption=none#ArashSB%20h2-reality
 ----------------------------
