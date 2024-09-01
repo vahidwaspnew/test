@@ -6,5 +6,5 @@ vless://229361f5-8bde-4973-9d84-464058967d29@185.4.31.174:8877?security=none&enc
 vless://ae6cf1d3-8823-409a-bd04-c8014369926c@185.4.31.174:2087?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelLU-9avmhnx7
 vless://6e3a82cc-0195-4f9b-ba4a-d5e3667664b8@213.176.2.10:2096?security=none&encryption=none&headerType=none&type=tcp#ConfTunnelNL-direct
 vless://30838690-5be7-4fb2-9834-711f035fc7a6@213.176.2.10:2020?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelNL-8gsmlzvw
-vless://3e3a74bb-b797-4ae8-8546-fc79ac37a4a4@213.176.2.10:4040?encryption=none&type=tcp#ConfTunnelFI-direct
+vless://fbc13433-2814-4460-92c6-b5f07afc6532@213.176.2.10:4040?encryption=none&type=tcp#ConfTunnelFI-direct
 vless://f3320224-721d-4ef3-b087-dd683768b90a@213.176.2.10:3030?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelFI-86937fr7
