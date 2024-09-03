@@ -1,0 +1,8 @@
+hy2://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8882?insecure=1#ArashSB hysteria2
+hy2://3d017554-400c-426e-8a26-04a6beb32a2a@hfy.haryalclinic.com:8882?insecure=1#VisionSB hysteria2
+hy2://9db5e019eaf875da@hfy.haryalclinic.com:2096/?obfs=salamander&obfs-password=2bc3815e&insecure=1#VahidLU
+hy2://f7e848443bfb15cd@dog.haryalclinic.com:8443/?obfs=salamander&obfs-password=2b3fa45e&insecure=1#ArashFI
+hy2://f7e848443bfb15cd@[2a13:7c00:6:10:f816:3eff:fe20:af5f]:8443/?obfs=salamander&obfs-password=2b3fa45e&insecure=1#ArashFI-ipv6
+hy2://c3ad5217ca6c5dc2@cat.beranti.com:2083/?obfs=salamander&obfs-password=d3496d13&insecure=1#ArashNLWARP
+hy2://e37a2000a928af7d@queen.jouhatsu.sbs:8443/?obfs=salamander&obfs-password=f28f468c&insecure=1#VahidNL
+hy2://e37a2000a928af7d@[2a13:7c00:4:9:f816:3eff:febb:a0df]:8443/?obfs=salamander&obfs-password=f28f468c&insecure=1#VahidNL-ipv6
