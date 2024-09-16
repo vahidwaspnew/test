@@ -1,6 +1,6 @@
 vless://47cd772d-c13c-437a-8504-036c3b6e9a5f@araz.beranti.ir:37443?security=none&encryption=none&headerType=none&type=tcp#TestTunnelAraz-t04p6r81
 vless://8e7f62e0-a9a4-4770-b5d0-3dda244eb13c@mahan.beranti.ir:54928?security=none&encryption=none&headerType=none&type=tcp#TestTunnelMahan-lp3fs6bj
-vless://03e68540-127c-4922-aa23-1bf5d7234782@pishdad.beranti.ir:7788?security=none&encryption=none&headerType=none&type=tcp#ConfTunnel-direct
+vless://19bee08a-217f-446e-ac6d-98489c46d48b@pishdad.beranti.ir:7788?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-direct
 vless://68698f43-1c46-482e-826a-63381627b38c@pishdad.beranti.ir:2096?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-3qzz921z
 vless://30e45b7a-964b-4304-aef2-fff25bf60a92@araz.beranti.ir:8877?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelLU-direct
 vless://ae6cf1d3-8823-409a-bd04-c8014369926c@araz.beranti.ir:2087?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelLU-9avmhnx7
