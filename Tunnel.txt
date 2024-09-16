@@ -6,5 +6,5 @@ vless://229361f5-8bde-4973-9d84-464058967d29@araz.beranti.ir:8877?security=none&
 vless://ae6cf1d3-8823-409a-bd04-c8014369926c@araz.beranti.ir:2087?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelLU-9avmhnx7
 vless://5ecd82ee-ad62-4df9-a441-668357599c9f@mahan.beranti.ir:2096?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL-direct
 vless://30838690-5be7-4fb2-9834-711f035fc7a6@mahan.beranti.ir:2020?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelNL-8gsmlzvw
-vless://fbc13433-2814-4460-92c6-b5f07afc6532@mahan.beranti.ir:4040?encryption=none&type=tcp#ConfTunnelFI-direct
+vless://ca433f0e-7164-4f00-8fc8-ff2406571f18@mahan.beranti.ir:4040?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelFI-direct
 vless://f3320224-721d-4ef3-b087-dd683768b90a@mahan.beranti.ir:3030?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelFI-86937fr7
