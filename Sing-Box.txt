@@ -44,3 +44,29 @@ vless://3d017554-400c-426e-8a26-04a6beb32a2a@hfy.haryalclinic.com:8889?security=
 vless://3d017554-400c-426e-8a26-04a6beb32a2a@hfy.haryalclinic.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=KrKkrikUkc8HkET4LR3FuKdGkHGHHpPKc8KpvZJkGz4&type=grpc&serviceName=grpc&encryption=none#VisionSB%20grpc-reality
 ============================
 ============================
+----------------------------
+vless://0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=xVyUEgIkrvZLtrJgGreXdqqdnzjsr09XTUz4Cr_fS1k&type=tcp&encryption=none#VahidSB%20xtls-reality
+----------------------------
+hy2://0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8882?insecure=1#VahidSB hysteria2
+----------------------------
+tuic://0568955f-be34-4794-96f6-eebabb8fcbdb:0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#VahidSB tuic
+----------------------------
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcIjA1Njg5NTVmLWJlMzQtNDc5NC05NmY2LWVlYmFiYjhmY2JkYlwiLFxuICAgIFwic2VydmVyXCI6IFwidmlzaW9uLmJlcmFudGkuY29tXCIsXG4gICAgXCJzZXJ2ZXJfcG9ydFwiOiA4ODg0LFxuICAgIFwidGFnXCI6IFwic2hhZG93dGxzLW91dFwiLFxuICAgIFwidGxzXCI6IHtcbiAgICAgICAgXCJlbmFibGVkXCI6IHRydWUsXG4gICAgICAgIFwic2VydmVyX25hbWVcIjogXCJhZGRvbnMubW96aWxsYS5vcmdcIlxuICAgIH0sXG4gICAgXCJ0eXBlXCI6IFwic2hhZG93dGxzXCIsXG4gICAgXCJ2ZXJzaW9uXCI6IDNcbn1cbiIsIm1hcHBpbmdfcG9ydCI6MCwibmFtZSI6IjEtdGxzLW5vdC11c2UiLCJwb3J0IjoxMDgwLCJzb2Nrc19wb3J0IjowfQ==
+
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6ImlXR1hOdEU2ak9LSEZPa3FoM2kxR0E9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
+----------------------------
+ss://YWVzLTEyOC1nY206MDU2ODk1NWYtYmUzNC00Nzk0LTk2ZjYtZWViYWJiOGZjYmRi@vision.beranti.com:8885#VahidSB shadowsocks
+----------------------------
+trojan://0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#VahidSB trojan
+----------------------------
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMyLmJlcmFudGkuY29tIiwiaWQiOiIwNTY4OTU1Zi1iZTM0LTQ3OTQtOTZmNi1lZWJhYmI4ZmNiZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMDU2ODk1NWYtYmUzNC00Nzk0LTk2ZjYtZWViYWJiOGZjYmRiLXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJWYWhpZFNCIHZtZXNzLXdzIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
+# Please set the ip [vision.beranti.com] to domain [vms2.beranti.com], and set the origin rule to [8887] in Cloudflare.
+----------------------------
+vless://0568955f-be34-4794-96f6-eebabb8fcbdb@time.cloudflare.com:443?security=tls&sni=vls2.beranti.com&type=ws&path=/0568955f-be34-4794-96f6-eebabb8fcbdb-vless?ed%3D2048&host=vls2.beranti.com&encryption=none#VahidSB%20vless-ws-tls
+
+# Please set the ip [vision.beranti.com] to domain [vls2.beranti.com], and set the origin rule to [8888] in Cloudflare.
+----------------------------
+vless://0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=xVyUEgIkrvZLtrJgGreXdqqdnzjsr09XTUz4Cr_fS1k&type=http&encryption=none#VahidSB%20h2-reality
+----------------------------
+vless://0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=xVyUEgIkrvZLtrJgGreXdqqdnzjsr09XTUz4Cr_fS1k&type=grpc&serviceName=grpc&encryption=none#VahidSB%20grpc-reality
