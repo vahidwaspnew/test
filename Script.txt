@@ -3,3 +3,4 @@ vless://3bfd19b6-255f-41a4-bcf8-1180357cbd26@45.59.118.28:43292?security=none&en
 vless://3b0d1d47-4015-43df-b3d5-4e889fe8ef2e@107.189.16.38:18629?security=none&encryption=none&seed=b5CdG2V8&headerType=wechat-video&type=kcp#107.189.16.38%3A18629
 vmess://eyJhZGQiOiIxMDcuMTg5LjE2LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiaWQiOiIyM2FmN2YzNC01YTA0LTQxMDUtYmIxZi1kY2RiYzkwOTVjZWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDA0IiwicHMiOiIxMDcuMTg5LjE2LjM4OjUwMDA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://cab34367-fbb7-49f9-9145-5167ed7c00ea@46.8.232.15:57012?encryption=none&type=kcp&headerType=wechat-video&seed=askmuo1N#46.8.232.15%3A57012
+vless://b6894e41-df48-4d7e-83fc-8bf893fa496e@172.86.92.9:2910?encryption=none&type=kcp&headerType=wechat-video&seed=Ud49tOF1#172.86.92.9%3A2910
