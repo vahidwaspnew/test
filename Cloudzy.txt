@@ -7,3 +7,6 @@ vless://f70e975d-9427-4c23-8a93-3613786adcda@hfy.haryalclinic.com:16881?type=grp
 vless://9887a8fa-9da6-4b0f-bcf7-27def42fa89f@104.16.245.8:2082?type=ws&path=%2FVision04&host=vision.haryalclinic.com&security=none#Vision04-yv1ctc4p
 vless://c298fde1-6beb-42b7-9661-85dbc537fc66@104.17.98.181:8880?type=ws&path=%2FVision05&host=vision.haryalclinic.com&security=none#Vision05-ikexc2m4
 vless://f5e8ee72-e7c1-46ec-973e-dddc277ccce1@127.0.0.1:5050?type=tcp&security=reality&pbk=AOzcTNgjWZ7_C7E73VySRRgoPfRrW_XhAWloLFXwJVI&fp=chrome&sni=codepen.io&sid=ac409b05&spx=%2F#VisionChisel-w4kp6tlq
+
+vless://e2444006-5963-4d5e-9fff-8fa0c17eba2c@104.17.77.94:2083?alpn=h3%2Ch2%2Chttp%2F1.1&flow=&fp=chrome&security=tls&sni=vision.beranti.com&type=grpc#Vision01-nt5z11nt
+vless://afcbcf7b-b154-448c-976d-cb13f13224c3@vision.beranti.com:20710?flow=&fp=chrome&pbk=KLDqEk_OPYt5HlRctlMP7OhgjSppUCDtG5jxsZISQgg&security=reality&sid=ace2de5d4cdcdc9c&sni=sourceforge.net&type=grpc#Vision03-sf38kpz5
