@@ -6,3 +6,4 @@ hy2://a3b138a758199746@[2a13:7c00:6:10:f816:3eff:fe20:af5f]:8443/?obfs=salamande
 hy2://c3ad5217ca6c5dc2@cat.beranti.com:2083/?obfs=salamander&obfs-password=d3496d13&insecure=1#ArashNLWARP
 hy2://e37a2000a928af7d@queen.jouhatsu.sbs:8443/?obfs=salamander&obfs-password=f28f468c&insecure=1#VahidNL
 hy2://e37a2000a928af7d@[2a13:7c00:4:9:f816:3eff:febb:a0df]:8443/?obfs=salamander&obfs-password=f28f468c&insecure=1#VahidNL-ipv6
+hy2://0568955f-be34-4794-96f6-eebabb8fcbdb@vision.beranti.com:8882?insecure=1#VahidSB hysteria2
