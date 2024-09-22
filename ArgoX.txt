@@ -1,9 +1,3 @@
-vless://12317b56-2c0d-47df-850e-24793995c8f9@hfy.haryalclinic.com:20594?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=gah9ZjxGIW3juuMVv2gSXT_qjriq_eIwopy4Xp6Lczw&type=tcp&headerType=none#VisionArgoX reality-vision
-vless://12317b56-2c0d-47df-850e-24793995c8f9@hfy.haryalclinic.com:20594?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=gah9ZjxGIW3juuMVv2gSXT_qjriq_eIwopy4Xp6Lczw&type=grpc&serviceName=grpc&encryption=none#VisionArgoX reality-grpc
-vless://12317b56-2c0d-47df-850e-24793995c8f9@time.cloudflare.com:443?encryption=none&security=tls&sni=ago.haryalclinic.com&type=ws&host=ago.haryalclinic.com&path=%2Fargox-vl%3Fed%3D2048#VisionArgoX-Vl
-vmess://eyAidiI6ICIyIiwgInBzIjogIlZpc2lvbkFyZ29YLVZtIiwgImFkZCI6ICJ0aW1lLmNsb3VkZmxhcmUuY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjEyMzE3YjU2LTJjMGQtNDdkZi04NTBlLTI0NzkzOTk1YzhmOSIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYWdvLmhhcnlhbGNsaW5pYy5jb20iLCAicGF0aCI6ICIvYXJnb3gtdm0/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhZ28uaGFyeWFsY2xpbmljLmNvbSIsICJhbHBuIjogIiIgfQ==
-trojan://12317b56-2c0d-47df-850e-24793995c8f9@time.cloudflare.com:443?security=tls&sni=ago.haryalclinic.com&type=ws&host=ago.haryalclinic.com&path=/argox-tr?ed%3D2048#VisionArgoX-Tr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjMxN2I1Ni0yYzBkLTQ3ZGYtODUwZS0yNDc5Mzk5NWM4Zjk=@time.cloudflare.com:443#VisionArgoX-Sh
 ====================================
 vless://971db94c-19d1-4295-af37-655cb7d01121@cat.beranti.com:11764?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=1C2AM-BHQXMQVjBZJxZq8QcuwCxxu2lKCuFMYWJSYkQ&type=tcp&headerType=none#ArashArgoX reality-vision
 vless://971db94c-19d1-4295-af37-655cb7d01121@cat.beranti.com:11764?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=1C2AM-BHQXMQVjBZJxZq8QcuwCxxu2lKCuFMYWJSYkQ&type=grpc&serviceName=grpc&encryption=none#ArashArgoX reality-grpc
