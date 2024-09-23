@@ -1,8 +1,8 @@
 server {
         listen 80;
         listen [::]:80;
-        server_name REPLACE_IT_WITH_YOUR_HOST;
-        if ($host = REPLACE_IT_WITH_YOUR_HOST) {
+        server_name cat.beranti.com;
+        if ($host = cat.beranti.com) {
                 return 301 https://$host$request_uri;
         }
         return 404;
@@ -12,7 +12,7 @@ server {
         listen       1001 proxy_protocol;
         listen       1002 http2 proxy_protocol;
 
-        server_name REPLACE_IT_WITH_YOUR_HOST;
+        server_name cat.beranti.com;
 
         root         /var/www/html;
 
