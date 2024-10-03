@@ -10,3 +10,6 @@ vless://f5e8ee72-e7c1-46ec-973e-dddc277ccce1@127.0.0.1:5050?type=tcp&security=re
 
 vless://e2444006-5963-4d5e-9fff-8fa0c17eba2c@104.17.77.94:2083?alpn=h3%2Ch2%2Chttp%2F1.1&flow=&fp=chrome&security=tls&sni=vision.beranti.com&type=grpc#Vision01-nt5z11nt
 vless://afcbcf7b-b154-448c-976d-cb13f13224c3@vision.beranti.com:20710?flow=&fp=chrome&pbk=KLDqEk_OPYt5HlRctlMP7OhgjSppUCDtG5jxsZISQgg&security=reality&sid=ace2de5d4cdcdc9c&sni=sourceforge.net&type=grpc#Vision03-sf38kpz5
+
+vless://875374cc-9ce6-4543-abe1-821e544ecb00@104.17.77.94:2083?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=note.beranti.com#Note01-vm6vjcmd
+vless://8d524a65-06e6-4ec8-95a9-c541361b0771@note.beranti.com:43981?type=grpc&serviceName=&authority=&security=reality&pbk=fhRFHL_wwZY_5-KLjkwSYjPB2u9OVJ6JeEV_6nYC5jA&fp=chrome&sni=sourceforge.net&sid=6e39e4001cfb40&spx=%2F#Note03-u2ebsfnq
