@@ -4,8 +4,8 @@ vless://8e7f62e0-a9a4-4770-b5d0-3dda244eb13c@mahan.beranti.ir:54928?security=non
 vless://19bee08a-217f-446e-ac6d-98489c46d48b@mahan.beranti.ir:7788?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-direct
 vless://68698f43-1c46-482e-826a-63381627b38c@mahan.beranti.ir:2083?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-3qzz921z
 
-vless://3b714e4d-f36e-40f4-885c-dc1e7fefca44@mahan.beranti.ir:8877?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelDE-direct
-vless://984bdd84-f1bc-4643-ae2f-f1685dd9be6e@mahan.beranti.ir:2087?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelDE-ls77frqb
+vless://dcf1c211-af89-47bc-9297-7c17d86c3d67@mahan.beranti.ir:8877?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelLU-direct
+vless://cae076c8-66f4-4f9d-8ee8-41e59c7b1f90@mahan.beranti.ir:2087?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelLU-uvvvg1q6
 
 vless://5ecd82ee-ad62-4df9-a441-668357599c9f@mahan.beranti.ir:2096?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL-direct
 vless://30838690-5be7-4fb2-9834-711f035fc7a6@mahan.beranti.ir:2020?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelNL-8gsmlzvw
