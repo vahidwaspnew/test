@@ -1,5 +1,5 @@
-vless://59e4b235-2325-4059-bf6b-f9513c022e31@[2a13:7c00:4:9:f816:3eff:febb:a0df]:30584?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-direct
-vless://93542062-35ab-47d6-ae85-99ce459bfd38@[2a13:7c00:4:9:f816:3eff:febb:a0df]:14647?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-ppzv092h
+vless://1f72daf9-b131-405f-b413-33520f3fb6ce@[2a13:7c00:4:9:f816:3eff:febb:a0df]:47662?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-direct
+vless://2830aabb-b1dc-41e9-ad04-72629c63bfeb@[2a13:7c00:4:9:f816:3eff:febb:a0df]:24732?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-asjfok3a
 
 vless://e4ca52af-3704-4fdc-941d-4e643fee67d3@[2602:fa59:2:134::1]:35191?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfLUIPv6-direct
 vless://a882a006-3417-4074-848a-5980844f1ea1@[2602:fa59:2:134::1]:17764?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfLUIPv6-d7ycebaa
