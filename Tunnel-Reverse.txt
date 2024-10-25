@@ -1,11 +1,11 @@
-vless://4948255e-a48d-4268-8df9-211ddb64e797@webdade.beranti.ir:1011?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User-4sobg8q4
-vless://189012a5-94c6-4c0d-8e26-e858071d469c@mahan.beranti.ir:5051?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User_-fvbgb237
+vless://4948255e-a48d-4268-8df9-211ddb64e797@webdade.beranti.ir:1011?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User%F0%9F%87%B3%F0%9F%87%B1-4sobg8q4
+vless://189012a5-94c6-4c0d-8e26-e858071d469c@mahan.beranti.ir:5051?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User-fvbgb237
 
-vless://decd1d5b-4ca7-4215-9c82-e35cbd29ae2e@webdade.beranti.ir:2021?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU-2704svr4
-vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU_-j0cmh3i2
+vless://decd1d5b-4ca7-4215-9c82-e35cbd29ae2e@webdade.beranti.ir:2021?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU%F0%9F%87%B1%F0%9F%87%BA-2704svr4
+vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU-j0cmh3i2
 
-vless://89f0c21e-05a2-4e41-8ecf-be4551ce6cd5@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL-krj1g2c2
-vless://6ba796f0-1dc1-46dd-8204-3f9b40a6b881@mahan.beranti.ir:7071?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL_-zd1s9ztg
+vless://89f0c21e-05a2-4e41-8ecf-be4551ce6cd5@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL%F0%9F%87%B3%F0%9F%87%B1-krj1g2c2
+vless://6ba796f0-1dc1-46dd-8204-3f9b40a6b881@mahan.beranti.ir:7071?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL-zd1s9ztg
 
-vless://41f803dc-90f8-499c-a306-21cdb2ce510f@webdade.beranti.ir:4041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI-kli9ckpp
-vless://6e82b4c1-0069-4b50-b03a-2f608bdc7d8d@mahan.beranti.ir:9091?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI_-m2mvn668
+vless://41f803dc-90f8-499c-a306-21cdb2ce510f@webdade.beranti.ir:4041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI%F0%9F%87%AB%F0%9F%87%AE-kli9ckpp
+vless://6e82b4c1-0069-4b50-b03a-2f608bdc7d8d@mahan.beranti.ir:9091?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI-m2mvn668
