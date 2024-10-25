@@ -4,7 +4,7 @@ vless://2830aabb-b1dc-41e9-ad04-72629c63bfeb@[2a13:7c00:4:9:f816:3eff:febb:a0df]
 vless://e4ca52af-3704-4fdc-941d-4e643fee67d3@[2602:fa59:2:134::1]:35191?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfLUIPv6-direct
 vless://a882a006-3417-4074-848a-5980844f1ea1@[2602:fa59:2:134::1]:17764?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfLUIPv6-d7ycebaa
 
-vless://bc9ac154-19d0-40c1-b56b-c647cf14776d@[2602:fa59:5:1b::1]:57156?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-direct
+vless://08169cea-0a6c-4d8b-9896-791177457a16@[2602:fa59:5:1b::1]:58864?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-direct
 vless://1fa49f64-ac7c-47dc-af6c-0e99de44ceff@[2602:fa59:5:1b::1]:14647?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-ij35rjq1
 
 vless://d8e9af0a-a301-45fb-9037-7b39aa8303d8@[2a13:7c00:6:10:f816:3eff:fe20:af5f]:48031?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-direct
