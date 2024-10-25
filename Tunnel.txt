@@ -1,19 +1,15 @@
 vless://0e134c9d-e703-4a42-a976-6ff73cc01396@mahan.beranti.ir:7788?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-direct
 vless://501eabb7-7058-468a-9de0-a16d3fcfebc3@mahan.beranti.ir:2083?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-6payzu0w
-vless://4948255e-a48d-4268-8df9-211ddb64e797@webdade.beranti.ir:1011?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User-4sobg8q4
-vless://189012a5-94c6-4c0d-8e26-e858071d469c@mahan.beranti.ir:5051?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User_-fvbgb237
+vless://181b4107-1337-466d-8c10-f133ea457850@webdade.beranti.ir:7789?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel%F0%9F%87%B3%F0%9F%87%B1-direct
+vless://06968c72-a9a5-494b-9408-31d3ef880ec0@webdade.beranti.ir:2084?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel%F0%9F%87%B3%F0%9F%87%B1-cfa5qdk2
 
 vless://dcf1c211-af89-47bc-9297-7c17d86c3d67@mahan.beranti.ir:8877?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelLU-direct
 vless://cae076c8-66f4-4f9d-8ee8-41e59c7b1f90@mahan.beranti.ir:2087?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelLU-uvvvg1q6
-vless://decd1d5b-4ca7-4215-9c82-e35cbd29ae2e@webdade.beranti.ir:2021?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU-2704svr4
-vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU_-j0cmh3i2
+
 
 vless://5ecd82ee-ad62-4df9-a441-668357599c9f@mahan.beranti.ir:2096?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL-direct
 vless://30838690-5be7-4fb2-9834-711f035fc7a6@mahan.beranti.ir:2020?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelNL-8gsmlzvw
-vless://89f0c21e-05a2-4e41-8ecf-be4551ce6cd5@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL-krj1g2c2
-vless://6ba796f0-1dc1-46dd-8204-3f9b40a6b881@mahan.beranti.ir:7071?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL_-zd1s9ztg
+
 
 vless://ca433f0e-7164-4f00-8fc8-ff2406571f18@mahan.beranti.ir:4040?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelFI-direct
 vless://f3320224-721d-4ef3-b087-dd683768b90a@mahan.beranti.ir:3030?security=none&encryption=none&host=time.cloudflare.com&headerType=http&type=tcp#ConfTunnelFI-86937fr7
-vless://41f803dc-90f8-499c-a306-21cdb2ce510f@webdade.beranti.ir:4041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI-kli9ckpp
-vless://6e82b4c1-0069-4b50-b03a-2f608bdc7d8d@mahan.beranti.ir:9091?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI_-m2mvn668
