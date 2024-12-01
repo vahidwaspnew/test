@@ -7,5 +7,5 @@ vless://a882a006-3417-4074-848a-5980844f1ea1@[2602:fa59:2:134::1]:17764?type=tcp
 vless://08169cea-0a6c-4d8b-9896-791177457a16@[2602:fa59:5:1b::1]:58864?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-direct
 vless://1fa49f64-ac7c-47dc-af6c-0e99de44ceff@[2602:fa59:5:1b::1]:14647?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-ij35rjq1
 
-vless://d8e9af0a-a301-45fb-9037-7b39aa8303d8@[2a13:7c00:6:10:f816:3eff:fe20:af5f]:48031?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-direct
-vless://91b59c89-8e3c-4257-967c-9e4b9e554a80@[2a13:7c00:6:10:f816:3eff:fe20:af5f]:14647?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-fmpnu9h2
+vless://245fb910-24e7-4fc0-bb93-49362406a75f@[2a13:7c00:6:16:f816:3eff:fea0:4e58]:45572?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-direct
+vless://9399c2b1-396f-4447-ab4a-2dc149567a06@[2a13:7c00:6:16:f816:3eff:fea0:4e58]:36599?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-13y3ocdu
