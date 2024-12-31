@@ -1,24 +1,29 @@
-vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Qyuh6U_JRzXmiPFtBufpWob8NhIAjwZLKVhYrbcbbWE&type=tcp&encryption=none#ArashSB%20xtls-reality
 ----------------------------
-hy2://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8882?insecure=1#ArashSB hysteria2
+vless://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=yiXYAZvnNBjYkDLiAOSWhOmBxjtHcBi9-r8XB6fZGno&type=tcp&encryption=none#ArashSB%20xtls-reality
 ----------------------------
-tuic://8184cc4e-0a43-4119-a55b-3f0b49bdc44b:8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#ArashSB tuic
+hy2://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8882?insecure=1#ArashSB hysteria2
 ----------------------------
-nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcIjgxODRjYzRlLTBhNDMtNDExOS1hNTViLTNmMGI0OWJkYzQ0YlwiLFxuICAgIFwic2VydmVyXCI6IFwiY2F0LmJlcmFudGkuY29tXCIsXG4gICAgXCJzZXJ2ZXJfcG9ydFwiOiA4ODg0LFxuICAgIFwidGFnXCI6IFwic2hhZG93dGxzLW91dFwiLFxuICAgIFwidGxzXCI6IHtcbiAgICAgICAgXCJlbmFibGVkXCI6IHRydWUsXG4gICAgICAgIFwic2VydmVyX25hbWVcIjogXCJhZGRvbnMubW96aWxsYS5vcmdcIlxuICAgIH0sXG4gICAgXCJ0eXBlXCI6IFwic2hhZG93dGxzXCIsXG4gICAgXCJ2ZXJzaW9uXCI6IDNcbn1cbiIsIm1hcHBpbmdfcG9ydCI6MCwibmFtZSI6IjEtdGxzLW5vdC11c2UiLCJwb3J0IjoxMDgwLCJzb2Nrc19wb3J0IjowfQ==
+tuic://ff61d2c1-f131-4cca-97a9-6071ce6a2f35:ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#ArashSB tuic
+----------------------------
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImZmNjFkMmMxLWYxMzEtNGNjYS05N2E5LTYwNzFjZTZhMmYzNVwiLFxuICAgIFwic2VydmVyXCI6IFwiY2F0LmJlcmFudGkuY29tXCIsXG4gICAgXCJzZXJ2ZXJfcG9ydFwiOiA4ODg0LFxuICAgIFwidGFnXCI6IFwic2hhZG93dGxzLW91dFwiLFxuICAgIFwidGxzXCI6IHtcbiAgICAgICAgXCJlbmFibGVkXCI6IHRydWUsXG4gICAgICAgIFwic2VydmVyX25hbWVcIjogXCJhZGRvbnMubW96aWxsYS5vcmdcIlxuICAgIH0sXG4gICAgXCJ0eXBlXCI6IFwic2hhZG93dGxzXCIsXG4gICAgXCJ2ZXJzaW9uXCI6IDNcbn1cbiIsIm1hcHBpbmdfcG9ydCI6MCwibmFtZSI6IjEtdGxzLW5vdC11c2UiLCJwb3J0IjoxMDgwLCJzb2Nrc19wb3J0IjowfQ==
 
-nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6Ii9CKy9vdnR1OU9TOXJJSVRFeFc3OWc9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6InQwazJLZHlRNjNqUkxSdDBkcVhMbXc9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
 ----------------------------
-ss://YWVzLTEyOC1nY206ODE4NGNjNGUtMGE0My00MTE5LWE1NWItM2YwYjQ5YmRjNDRi@cat.beranti.com:8885#ArashSB shadowsocks
+ss://YWVzLTEyOC1nY206ZmY2MWQyYzEtZjEzMS00Y2NhLTk3YTktNjA3MWNlNmEyZjM1@cat.beranti.com:8885#ArashSB shadowsocks
 ----------------------------
-trojan://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#ArashSB trojan
+trojan://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#ArashSB trojan
 ----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuYmVyYW50aS5jb20iLCJpZCI6IjgxODRjYzRlLTBhNDMtNDExOS1hNTViLTNmMGI0OWJkYzQ0YiIsIm5ldCI6IndzIiwicGF0aCI6Ii84MTg0Y2M0ZS0wYTQzLTQxMTktYTU1Yi0zZjBiNDliZGM0NGItdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkFyYXNoU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuYmVyYW50aS5jb20iLCJpZCI6ImZmNjFkMmMxLWYxMzEtNGNjYS05N2E5LTYwNzFjZTZhMmYzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9mZjYxZDJjMS1mMTMxLTRjY2EtOTdhOS02MDcxY2U2YTJmMzUtdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkFyYXNoU0Igdm1lc3Mtd3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+# Please set the ip [cat.beranti.com] to domain [vms.beranti.com], and set the origin rule to [8887] in Cloudflare.
 ----------------------------
-vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@time.cloudflare.com:443?security=tls&sni=vls.beranti.com&type=ws&path=/8184cc4e-0a43-4119-a55b-3f0b49bdc44b-vless?ed%3D2048&host=vls.beranti.com&encryption=none#ArashSB%20vless-ws-tls
+vless://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@time.cloudflare.com:443?security=tls&sni=vls.beranti.com&type=ws&path=/ff61d2c1-f131-4cca-97a9-6071ce6a2f35-vless?ed%3D2048&host=vls.beranti.com&encryption=zero#ArashSB%20vless-ws-tls
+
+# Please set the ip [cat.beranti.com] to domain [vls.beranti.com], and set the origin rule to [8888] in Cloudflare.
 ----------------------------
-vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=Qyuh6U_JRzXmiPFtBufpWob8NhIAjwZLKVhYrbcbbWE&type=http&encryption=none#ArashSB%20h2-reality
+vless://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=yiXYAZvnNBjYkDLiAOSWhOmBxjtHcBi9-r8XB6fZGno&type=http&encryption=none#ArashSB%20h2-reality
 ----------------------------
-vless://8184cc4e-0a43-4119-a55b-3f0b49bdc44b@cat.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Qyuh6U_JRzXmiPFtBufpWob8NhIAjwZLKVhYrbcbbWE&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality
+vless://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=yiXYAZvnNBjYkDLiAOSWhOmBxjtHcBi9-r8XB6fZGno&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality
 ============================
 ============================
 vless://1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=zVT3LSw35V6JDDaRA6OhbM5D8-xITYQCbw4ak0Q6Img&type=tcp&encryption=none#VahidLUSB%20xtls-reality
