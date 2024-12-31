@@ -26,25 +26,28 @@ vless://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8889?security=reali
 vless://ff61d2c1-f131-4cca-97a9-6071ce6a2f35@cat.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=yiXYAZvnNBjYkDLiAOSWhOmBxjtHcBi9-r8XB6fZGno&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality
 ============================
 ============================
-vless://1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=zVT3LSw35V6JDDaRA6OhbM5D8-xITYQCbw4ak0Q6Img&type=tcp&encryption=none#VahidLUSB%20xtls-reality
+vless://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8881?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=ZJZ2eFgYzg7k984w7Rhh7FaW2lkLU5i2NNRHC46Wukg&type=tcp&encryption=none#VahidLUSB%20xtls-reality
 ----------------------------
-hy2://1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8882?insecure=1#VahidLUSB hysteria2
+hy2://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8882?insecure=1#VahidLUSB hysteria2
 ----------------------------
-tuic://1ffb03a7-02a0-45a3-be20-9b2424c873d4:1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#VahidLUSB tuic
+tuic://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b:f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8883?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1&disable_sni=1#VahidLUSB tuic
 ----------------------------
-nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcIjFmZmIwM2E3LTAyYTAtNDVhMy1iZTIwLTliMjQyNGM4NzNkNFwiLFxuICAgIFwic2VydmVyXCI6IFwibm90ZS5iZXJhbnRpLmNvbVwiLFxuICAgIFwic2VydmVyX3BvcnRcIjogODg4NCxcbiAgICBcInRhZ1wiOiBcInNoYWRvd3Rscy1vdXRcIixcbiAgICBcInRsc1wiOiB7XG4gICAgICAgIFwiZW5hYmxlZFwiOiB0cnVlLFxuICAgICAgICBcInNlcnZlcl9uYW1lXCI6IFwiYWRkb25zLm1vemlsbGEub3JnXCJcbiAgICB9LFxuICAgIFwidHlwZVwiOiBcInNoYWRvd3Rsc1wiLFxuICAgIFwidmVyc2lvblwiOiAzXG59XG4iLCJtYXBwaW5nX3BvcnQiOjAsIm5hbWUiOiIxLXRscy1ub3QtdXNlIiwicG9ydCI6MTA4MCwic29ja3NfcG9ydCI6MH0=
-nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6IitNaitKVHEyQVAvOVJsZyt0T1lLSEE9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
+nekoray://custom#eyJfdiI6MCwiYWRkciI6IjEyNy4wLjAuMSIsImNtZCI6WyIiXSwiY29yZSI6ImludGVybmFsIiwiY3MiOiJ7XG4gICAgXCJwYXNzd29yZFwiOiBcImYxYmZiMmY5LTY2Y2EtNDUyNC04Y2JiLWNkZDZhZDIyNWM2YlwiLFxuICAgIFwic2VydmVyXCI6IFwibm90ZS5iZXJhbnRpLmNvbVwiLFxuICAgIFwic2VydmVyX3BvcnRcIjogODg4NCxcbiAgICBcInRhZ1wiOiBcInNoYWRvd3Rscy1vdXRcIixcbiAgICBcInRsc1wiOiB7XG4gICAgICAgIFwiZW5hYmxlZFwiOiB0cnVlLFxuICAgICAgICBcInNlcnZlcl9uYW1lXCI6IFwiYWRkb25zLm1vemlsbGEub3JnXCJcbiAgICB9LFxuICAgIFwidHlwZVwiOiBcInNoYWRvd3Rsc1wiLFxuICAgIFwidmVyc2lvblwiOiAzXG59XG4iLCJtYXBwaW5nX3BvcnQiOjAsIm5hbWUiOiIxLXRscy1ub3QtdXNlIiwicG9ydCI6MTA4MCwic29ja3NfcG9ydCI6MH0=
+
+nekoray://shadowsocks#eyJfdiI6MCwibWV0aG9kIjoiMjAyMi1ibGFrZTMtYWVzLTEyOC1nY20iLCJuYW1lIjoiMi1zcy1ub3QtdXNlIiwicGFzcyI6IlpiMDhtT1NEWVk1YWt1TzRoU1Z0aFE9PSIsInBvcnQiOjAsInN0cmVhbSI6eyJlZF9sZW4iOjAsImluc2VjdXJlIjpmYWxzZSwibXV4X3MiOjAsIm5ldCI6InRjcCJ9LCJ1b3QiOjB9
 ----------------------------
-ss://YWVzLTEyOC1nY206MWZmYjAzYTctMDJhMC00NWEzLWJlMjAtOWIyNDI0Yzg3M2Q0@note.beranti.com:8885#VahidLUSB shadowsocks
+ss://YWVzLTEyOC1nY206ZjFiZmIyZjktNjZjYS00NTI0LThjYmItY2RkNmFkMjI1YzZi@note.beranti.com:8885#VahidLUSB shadowsocks
 ----------------------------
-trojan://1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#VahidLUSB trojan
+trojan://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8886?security=tls&allowInsecure=1&fp=random&type=tcp#VahidLUSB trojan
 ----------------------------
-vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMyLmJlcmFudGkuY29tIiwiaWQiOiIxZmZiMDNhNy0wMmEwLTQ1YTMtYmUyMC05YjI0MjRjODczZDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMWZmYjAzYTctMDJhMC00NWEzLWJlMjAtOWIyNDI0Yzg3M2Q0LXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJWYWhpZExVU0Igdm1lc3Mtd3MiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMyLmJlcmFudGkuY29tIiwiaWQiOiJmMWJmYjJmOS02NmNhLTQ1MjQtOGNiYi1jZGQ2YWQyMjVjNmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZjFiZmIyZjktNjZjYS00NTI0LThjYmItY2RkNmFkMjI1YzZiLXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJWYWhpZExVU0Igdm1lc3Mtd3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
 # Please set the ip [note.beranti.com] to domain [vms2.beranti.com], and set the origin rule to [8887] in Cloudflare.
 ----------------------------
-vless://1ffb03a7-02a0-45a3-be20-9b2424c873d4@time.cloudflare.com:443?security=tls&sni=vls2.beranti.com&type=ws&path=/1ffb03a7-02a0-45a3-be20-9b2424c873d4-vless?ed%3D2048&host=vls2.beranti.com&encryption=none#VahidLUSB%20vless-ws-tls
+vless://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@time.cloudflare.com:443?security=tls&sni=vls2.beranti.com&type=ws&path=/f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b-vless?ed%3D2048&host=vls2.beranti.com&encryption=zero#VahidLUSB%20vless-ws-tls
+
 # Please set the ip [note.beranti.com] to domain [vls2.beranti.com], and set the origin rule to [8888] in Cloudflare.
 ----------------------------
-vless://1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=zVT3LSw35V6JDDaRA6OhbM5D8-xITYQCbw4ak0Q6Img&type=http&encryption=none#VahidLUSB%20h2-reality
+vless://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=ZJZ2eFgYzg7k984w7Rhh7FaW2lkLU5i2NNRHC46Wukg&type=http&encryption=none#VahidLUSB%20h2-reality
 ----------------------------
-vless://1ffb03a7-02a0-45a3-be20-9b2424c873d4@note.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=zVT3LSw35V6JDDaRA6OhbM5D8-xITYQCbw4ak0Q6Img&type=grpc&serviceName=grpc&encryption=none#VahidLUSB%20grpc-reality
+vless://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=ZJZ2eFgYzg7k984w7Rhh7FaW2lkLU5i2NNRHC46Wukg&type=grpc&serviceName=grpc&encryption=none#VahidLUSB%20grpc-reality
