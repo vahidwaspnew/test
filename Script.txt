@@ -1,7 +1,9 @@
 vless://9b3926b8-1de9-4e0a-9319-ee0a3107386e@195.211.124.143:11366?encryption=none&type=kcp&headerType=wechat-video&seed=G2Zjsmu1#195.211.124.143%3A11366
+
 vless://3b0d1d47-4015-43df-b3d5-4e889fe8ef2e@107.189.16.38:18629?security=none&encryption=none&seed=b5CdG2V8&headerType=wechat-video&type=kcp#107.189.16.38%3A18629
 vmess://eyJhZGQiOiIxMDcuMTg5LjE2LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiaWQiOiIyM2FmN2YzNC01YTA0LTQxMDUtYmIxZi1kY2RiYzkwOTVjZWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDA0IiwicHMiOiIxMDcuMTg5LjE2LjM4OjUwMDA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
-vless://3003a1c0-bfff-4705-beb6-5ca12dd2f653@46.8.70.119:53915?encryption=none&type=kcp&headerType=wechat-video&seed=u8jH1TON#46.8.70.119%3A53915
-vmess://eyJ2IjogIjIiLCAicHMiOiAiNDYuOC43MC4xMTk6NjIyMDciLCAiYWRkIjogIjQ2LjguNzAuMTE5IiwgInBvcnQiOiA2MjIwNywgImFpZCI6IDAsICJ0eXBlIjogImh0dHAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJob3N0IjogInRpbWUuY2xvdWRmbGFyZS5jb20iLCAiaWQiOiAiN2IwNzU5NTctZDNkNy00NDE1LWI5NDctN2FmNjY4ODFiOTgxIiwgInRscyI6ICJub25lIn0=
+vless://5d2b0eac-4e03-4ef9-b8ee-28da43d2ac5b@188.130.207.71:61232?encryption=none&type=kcp&headerType=wechat-video&seed=9rwKUb7l#188.130.207.71%3A61232
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTg4LjEzMC4yMDcuNzE6NTI2NTgiLCAiYWRkIjogIjE4OC4xMzAuMjA3LjcxIiwgInBvcnQiOiA1MjY1OCwgImFpZCI6IDAsICJ0eXBlIjogImh0dHAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJob3N0IjogInRpbWUuY2xvdWRmbGFyZS5jb20iLCAiaWQiOiAiYmVlOTk4OWUtYzA0Mi00NWI2LThhOWUtNjg1MWFmY2NhZTBlIiwgInRscyI6ICJub25lIn0=
+
 vless://afa48545-4dd5-405f-ac7c-973b5265f4fd@45.59.120.159:48019?encryption=none&type=kcp&headerType=wechat-video&seed=LSyfci1q#45.59.120.159%3A48019
