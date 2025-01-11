@@ -7,5 +7,5 @@ vless://a882a006-3417-4074-848a-5980844f1ea1@[2602:fa59:2:134::1]:17764?type=tcp
 vless://08169cea-0a6c-4d8b-9896-791177457a16@[2602:fa59:5:1b::1]:58864?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-direct
 vless://1fa49f64-ac7c-47dc-af6c-0e99de44ceff@[2602:fa59:5:1b::1]:14647?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-ij35rjq1
 
-vless://66d585c7-4882-4871-837c-e2b0867933cd@[2a13:7c00:6:16:f816:3eff:fea0:4e58]:32576?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-direct
-vless://807e4b65-05e4-4731-9270-dd70b6f46e26@[2a13:7c00:6:16:f816:3eff:fea0:4e58]:24389?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-bkydhp63
+vless://41037582-cf2b-417c-92f2-87aa066236d6@dog6.beranti.com:19505?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFRIPv6-direct
+vless://7d05b69c-ec29-45bf-b337-df0c65f76554@dog6.beranti.com:14149?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFRIPv6-4aplp9mb
