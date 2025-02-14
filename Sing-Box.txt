@@ -17,7 +17,7 @@ vmess://eyJhZGQiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bXMuYmVy
 vless://7391c411-7bc9-4695-a6f9-11e767146e5f@time.cloudflare.com:443?security=tls&sni=vls.beranti.com&type=ws&path=/7391c411-7bc9-4695-a6f9-11e767146e5f-vless?ed%3D2048&host=vls.beranti.com&encryption=zero#ArashSB%20vless-ws-tls
 # Please set the ip [107.189.16.38] to domain [vls.beranti.com], and set the origin rule to [8888] in Cloudflare.
 ----------------------------
-vless://7391c411-7bc9-4695-a6f9-11e767146e5f@107.189.16.38:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=idBx3dWY6zuSd0aJzbR3UacUbW-1zoucG2j8wDA2U2A&type=http&encryption=none#ArashSB%20h2-reality
+vless://7391c411-7bc9-4695-a6f9-11e767146e5f@cat.beranti.com:8889?security=reality&sni=addons.mozilla.org&alpn=h2&fp=chrome&pbk=idBx3dWY6zuSd0aJzbR3UacUbW-1zoucG2j8wDA2U2A&type=http&encryption=none#ArashSB%20h2-reality
 ----------------------------
 vless://7391c411-7bc9-4695-a6f9-11e767146e5f@cat.beranti.com:8890?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=idBx3dWY6zuSd0aJzbR3UacUbW-1zoucG2j8wDA2U2A&type=grpc&serviceName=grpc&encryption=none#ArashSB%20grpc-reality
 ============================
