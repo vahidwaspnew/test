@@ -1,10 +1,13 @@
 vless://875374cc-9ce6-4543-abe1-821e544ecb00@104.17.77.94:2083?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=note.beranti.com#Note-vm6vjcmd
 vless://8d524a65-06e6-4ec8-95a9-c541361b0771@note.beranti.com:43981?type=tcp&security=reality&pbk=Ky9hg2yH_tU3n4mnxAa1oXJA8rE46Gapgkaq7hCzKXQ&fp=chrome&sni=ftp.debian.org&sid=6e39e4001cfb40&spx=%2F&flow=xtls-rprx-vision#Note01-u2ebsfnq
 vless://9d0a1fed-6e5b-430d-bc3c-26b2824d39c4@note.beranti.com:26493?type=grpc&serviceName=&authority=&security=reality&pbk=z1N-Sik9U80LVwTp3262Rqlp8L5Dmsc4imrCHChycxo&fp=chrome&sni=sourceforge.net&sid=fce202d8d4b471d7&spx=%2F#Note03-5xy8hs4g
+vless://d4c76c3d-c6f3-44f3-8bb1-71d9853fbb88@note.beranti.com:35632?type=tcp&security=reality&pbk=8kPO74_ViTqLYDvfuE-KUilAme4XHfg39j5UGL4z4Ts&fp=chrome&sni=tgju.org&sid=4a849d39c7b711&spx=%2F&flow=xtls-rprx-vision#Note02-113lu4d2
 
 vless://c6dff174-728e-4576-b53f-63d8940e67fe@104.17.77.94:2087?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=queen.beranti.com#Queen-1ji8bwk5
 vless://a9dcaf0c-dc4d-4b0d-bd69-8623a4251463@queen.beranti.com:36102?type=tcp&security=reality&pbk=wTHgLAXKD4ikVDvdcg93uyVCZRqhdwd0up4_ClttVAs&fp=chrome&sni=ftp.debian.org&sid=23c80aa80cbe27&spx=%2F&flow=xtls-rprx-vision#Queen01-ruo65vou
 vless://44b93a33-ffe2-482d-ab6a-97bef5879a0f@queen.beranti.com:50392?type=grpc&serviceName=&authority=&security=reality&pbk=RIbtVWKnfpbJYw21ha1IV3OgMBQrwPT_Zrw6InwVkEA&fp=chrome&sni=sourceforge.net&sid=51c9cb1e43e288&spx=%2F#Queen03-c2bt6ove
+vless://67761972-c74e-4ad0-84ad-6e509b0ff637@queen.beranti.com:15554?type=tcp&security=reality&pbk=GCRct0RtXRax6WAe-3Fa-qwghm-koSTdewpmf6wTICw&fp=chrome&sni=tgju.org&sid=5a7edda7&spx=%2F&flow=xtls-rprx-vision#Queen02-kif7w5qt
+
 vless://9a2557a9-4d1f-4ce5-9a7e-80802b4f6a03@cat.beranti.com:37697?flow=&fp=chrome&pbk=8srv_zKMobhMEVCostC1hWK5Rk8O0wwKL2HknFmhlHM&security=reality&sid=1e4870ff&sni=ftp.debian.org&type=tcp#Cat01-j1g4flor
 vless://f0e55c04-a923-4625-965c-b37f4c55d724@cat.beranti.com:17454?flow=&fp=chrome&pbk=5_e46brkBtWnju8g8t3phsD3d4k4mib2DwgAGnORq14&security=reality&sid=04f6&sni=sourceforge.net&type=grpc#Cat03-7ojh5z2u
 vless://718e1518-e2cb-425d-93bb-edf5e069e6f2@cat.beranti.com:39430?security=reality&encryption=none&pbk=W7-My_YoinGerqtgcIviiybrQbB9zmv72SBL3kmn9UI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e0#Cat02-dvvjoht4
