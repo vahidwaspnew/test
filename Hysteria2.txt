@@ -3,9 +3,7 @@ hy2://c3ad5217ca6c5dc2@cat.beranti.com:2083/?obfs=salamander&obfs-password=d3496
 hy2://c3ad5217ca6c5dc2@[2602:fa59:5:1b::1]:2083/?obfs=salamander&obfs-password=d3496d13&insecure=1#ArashNLWARP-ipv6
 hy2://560326428f94724a@queen.beranti.com:8443/?obfs=salamander&obfs-password=6b91aab9&insecure=1#VahidNL
 hy2://560326428f94724a@[2a13:7c00:4:9:f816:3eff:febb:a0df]:8443/?obfs=salamander&obfs-password=6b91aab9&insecure=1#VahidNL-ipv6
-hy2://049a1feb6b5d3dc7@note.beranti.com:2083/?obfs=salamander&obfs-password=a35b62ba&insecure=1#VahidLUWARP
-hy2://049a1feb6b5d3dc7@[2602:fa59:2:134::1]:2083/?obfs=salamander&obfs-password=a35b62ba&insecure=1#VahidLUWARP-ipv6
-hy2://f1bfb2f9-66ca-4524-8cbb-cdd6ad225c6b@note.beranti.com:8882?insecure=1#VahidLUSB
+hy2://c7023280-aa9a-4f78-8fd3-347788cc506f@note.beranti.com:8882?insecure=1#VahidDESB
 
 hysteria2://5392fa03-4783-44d6-983a-e6c5663d6058@queen.beranti.com:8448?&insecure=1&obfs=salamander&obfs-password=BHDFuNTkrv8Ty6mp#VahidNL🇳🇱Optimized
 hysteria2://b8fc5f5a-7e69-40ca-8e33-fa533e9d95a3@note.beranti.com:8448?&insecure=1&obfs=salamander&obfs-password=EYdeFgGAg2ZGXVFD#VahidDE🇩🇪Optimized
