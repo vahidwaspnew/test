@@ -1,8 +1,8 @@
 vless://9b3926b8-1de9-4e0a-9319-ee0a3107386e@queen.beranti.com:11366?encryption=none&type=kcp&headerType=wechat-video&seed=G2Zjsmu1#🇳🇱NL-me_(VLESS)
 
-vless://3b0d1d47-4015-43df-b3d5-4e889fe8ef2e@cat.beranti.com:18629?security=none&encryption=none&seed=b5CdG2V8&headerType=wechat-video&type=kcp#🇳🇱NL-Arash_(VLESS)
+vless://379fd0bb-7c00-47cc-b3a8-83f9559593c9@cat.beranti.com:59560?encryption=none&type=kcp&headerType=wechat-video&seed=SXRsGvdU#🇳🇱NL-Arash_(VLESS)
 
-vmess://eyJhZGQiOiJjYXQuYmVyYW50aS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRpbWUuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjIzYWY3ZjM0LTVhMDQtNDEwNS1iYjFmLWRjZGJjOTA5NWNlYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDQiLCJwcyI6IvCfh7Pwn4exTkwtQXJhc2hfKFZNRVNTKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGM1x1RDgzQ1x1RERGMU5MLUFyYXNoXyhWTUVTUykiLA0KICAiYWRkIjogImNhdC5iZXJhbnRpLmNvbSIsDQogICJwb3J0IjogIjQ2NTQ3IiwNCiAgImlkIjogIjY5YThiZjUwLWM1YWYtNGMwMC1hYTA4LWU3ZmQ3MzhkYjNiMCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogInRpbWUuY2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
 vless://5d2b0eac-4e03-4ef9-b8ee-28da43d2ac5b@dog.beranti.com:61232?encryption=none&type=kcp&headerType=wechat-video&seed=9rwKUb7l#🇨🇵FR-Arash_(VLESS)
 
