@@ -1,6 +1,4 @@
-hy2://7391c411-7bc9-4695-a6f9-11e767146e5f@cat.beranti.com:8882?insecure=1#ArashNLSB
-hy2://c3ad5217ca6c5dc2@cat.beranti.com:2083/?obfs=salamander&obfs-password=d3496d13&insecure=1#ArashNLWARP
-hy2://c3ad5217ca6c5dc2@[2602:fa59:5:1b::1]:2083/?obfs=salamander&obfs-password=d3496d13&insecure=1#ArashNLWARP-ipv6
+hy2://f8cf4fff-0a53-4ce1-9a23-4bd97171c8ff@cat.beranti.com:8882?insecure=1#ArashSB
 hy2://560326428f94724a@queen.beranti.com:8443/?obfs=salamander&obfs-password=6b91aab9&insecure=1#VahidNL
 hy2://560326428f94724a@[2a13:7c00:4:9:f816:3eff:febb:a0df]:8443/?obfs=salamander&obfs-password=6b91aab9&insecure=1#VahidNL-ipv6
 hy2://c7023280-aa9a-4f78-8fd3-347788cc506f@note.beranti.com:8882?insecure=1#VahidDESB
