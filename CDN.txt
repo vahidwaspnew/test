@@ -13,11 +13,3 @@ vless://2bfa6ffa-ec12-46c2-86b0-27fde0f44d42@huffingtonpost.es:443?mode=auto&pat
 vless://f30d4d4f-644c-4271-89d0-9e2f9f279ae8@huffingtonpost.es:80?mode=auto&path=%2F&security=none&encryption=none&host=catdog123.global.ssl.fastly.net&type=xhttp#TestFRFastly80-xc9gcpso
 
 vless://f30d4d4f-644c-4271-89d0-9e2f9f279ae8@huffingtonpost.es:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=catdog123.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=huffingtonpost.es#TestFRFastly443-xc9gcpso
-===================
-vless://1e593d6c-9580-46d8-ad4f-b8953c4eac35@catdog321arash.b-cdn.net:80?mode=auto&path=%2F&security=none&encryption=none&host=catdog321arash.b-cdn.net&type=xhttp#TestNLBunny80-vbr38qyb
-
-vless://1e593d6c-9580-46d8-ad4f-b8953c4eac35@catdog321arash.b-cdn.net:443?encryption=none&security=tls&sni=catdog321arash.b-cdn.net&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=xhttp&host=catdog321arash.b-cdn.net&path=%2F&mode=auto#TestNLBunny443-vbr38qyb
-===================
-vless://6503bbb1-dc49-488f-aa90-2b67c157bb9e@cdn10285967.blazingcdn.net:80?mode=auto&path=%2F&security=none&encryption=none&host=cdn10285967.blazingcdn.net&type=xhttp#TestNLBlazing-33bqterf
-
-vless://542efd7e-8d56-48e4-9f61-0f8d1faf5f64@cdn88558481.blazingcdn.net:80?mode=auto&path=%2F&security=none&encryption=none&host=cdn88558481.blazingcdn.net&type=xhttp#TestFRBlazing-yr80i70w
