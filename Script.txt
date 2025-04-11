@@ -7,9 +7,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGM1x1RDgzQ1x1RERGMU5MLUFy
 vless://5d2b0eac-4e03-4ef9-b8ee-28da43d2ac5b@dog.beranti.com:61232?encryption=none&type=kcp&headerType=wechat-video&seed=9rwKUb7l#🇨🇵FR-Arash_(VLESS)
 
 vmess://eyJhZGQiOiJkb2cuYmVyYW50aS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRpbWUuY2xvdWRmbGFyZS5jb20iLCJpZCI6ImJlZTk5ODllLWMwNDItNDViNi04YTllLTY4NTFhZmNjYWUwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTI2NTgiLCJwcyI6IvCfh6jwn4e1RlItQXJhc2hfKFZNRVNTKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vless://afa48545-4dd5-405f-ac7c-973b5265f4fd@note.beranti.com:48019?encryption=none&type=kcp&headerType=wechat-video&seed=LSyfci1q#🇱🇺LU-me_(VLESS)
-
-vless://cf12f047-2ecb-4ca8-b5e9-f9825da0dbb3@note.beranti.com:49264?encryption=none&type=kcp&headerType=wechat-video&seed=HIGs85Cq#🇩🇪DE-me_(VLESS)
-
-vmess://eyJhZGQiOiJub3RlLmJlcmFudGkuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ0aW1lLmNsb3VkZmxhcmUuY29tIiwiaWQiOiI3YWQ3NTIxYS05NzkzLTRhNzktOTI2YS01NTkzZTJlYWFhMjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU2NTA1IiwicHMiOiLwn4ep8J+HqkRFLW1lXyhWTUVTUykiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
