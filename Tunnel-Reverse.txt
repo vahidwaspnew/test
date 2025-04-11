@@ -1,8 +1,8 @@
 vless://4948255e-a48d-4268-8df9-211ddb64e797@webdade.beranti.ir:1011?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User🇳🇱-4sobg8q4
 vless://189012a5-94c6-4c0d-8e26-e858071d469c@mahan.beranti.ir:5051?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User-fvbgb237
 
-vless://decd1d5b-4ca7-4215-9c82-e35cbd29ae2e@webdade.beranti.ir:2021?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserDE🇩🇪-2704svr4
-vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserDE-j0cmh3i2
+vless://decd1d5b-4ca7-4215-9c82-e35cbd29ae2e@webdade.beranti.ir:2021?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU🇱🇺-2704svr4
+vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserLU-j0cmh3i2
 
 vless://a44bf7e2-0e75-4a9f-8263-e2a408c72021@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL🇳🇱-krj1g2c2
 vless://6ba796f0-1dc1-46dd-8204-3f9b40a6b881@mahan.beranti.ir:7071?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL-zd1s9ztg
