@@ -1,4 +1,4 @@
-vless://bfde2c83-6356-49ff-92ab-3b9c522f7d4c@104.17.77.94:2083?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=note.beranti.com#Note-zhdb38uj
+vless://68b42cef-67a2-47c0-9667-31a535f78ec7@104.17.77.94:2083?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=note.beranti.com#Note-lsthgz37
 vless://c3b5b573-a930-40ee-9568-f82fb9444f45@note.beranti.com:42086?type=tcp&security=reality&pbk=Ses8qggRWaS66jqxlylRKF3pzybU9BeZACoBPC94AW0&fp=chrome&sni=ftp.debian.org&sid=1c725af45108226b&spx=%2F&flow=xtls-rprx-vision#Note01-e87ri22o
 vless://fc046bdf-f1ab-4c88-bae9-d7575b2ffedc@note.beranti.com:19352?type=grpc&serviceName=&authority=&security=reality&pbk=Qocnp19GyYqm-n1cmiJ0QwwqNcOP7aiBrrubwAjeoxs&fp=chrome&sni=sourceforge.net&sid=86&spx=%2F#Note02-tf133fmp
 vless://e6c95450-a083-4511-ade6-8821cb7db7f3@note.beranti.com:23573?type=tcp&security=reality&pbk=sCL5sSXFmFDjE6O5m1WVWJLlPF_vT7UvkCh6GAgj_DQ&fp=chrome&sni=tgju.org&sid=0c17af6cc93f7545&spx=%2F&flow=xtls-rprx-vision#Note03-2m26ncwm
