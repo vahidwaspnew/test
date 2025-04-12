@@ -10,6 +10,7 @@ vless://0fffeee6-6d75-4a94-a8c1-e148b558bac4@note.beranti.com:8880?type=httpupgr
 trojan://l5J400a6UD@note.beranti.com:35559?type=tcp&security=none#Note08⛔-fxo3lq7x
 trojan://UmSin9VTEf@note.beranti.com:37490?type=xhttp&path=%2FaNWYq0ukxQwJV1MqHbbhO1bc&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=note.beranti.com#Note09-wh3u3gwe
 trojan://2zCiQMZkBS@note.beranti.com:29376?type=kcp&headerType=none&seed=hEJ5Ffsa6I&security=none#Note10⛔-sosrl6f6
+vless://653f3ba0-1c3f-404a-839a-2fce17e1cdfd@note.beranti.com:45645?type=xhttp&path=%2F&host=&mode=auto&security=none#Note11⛔-qkjh4umd
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJOb3RlMTItOHg3YXcydDEiLAogICJhZGQiOiAibm90ZS5iZXJhbnRpLmNvbSIsCiAgInBvcnQiOiAxMDY1NCwKICAiaWQiOiAiMDQwMjQxODAtMDRjOS00OWEzLThmNzUtODRjMTVhZjk1ZjkzIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ2YXJ6ZXNoMy5jb20iLAogICJmcCI6ICJyYW5kb21pemVkIiwKICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIKfQ==
 ============================
 vless://c6dff174-728e-4576-b53f-63d8940e67fe@104.17.77.94:2087?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=queen.beranti.com#Queen-1ji8bwk5
