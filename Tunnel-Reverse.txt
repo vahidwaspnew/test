@@ -7,5 +7,5 @@ vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path
 vless://a44bf7e2-0e75-4a9f-8263-e2a408c72021@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL🇳🇱-krj1g2c2
 vless://6ba796f0-1dc1-46dd-8204-3f9b40a6b881@mahan.beranti.ir:7071?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL-zd1s9ztg
 
-vless://41f803dc-90f8-499c-a306-21cdb2ce510f@webdade.beranti.ir:4041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFR🇫🇷-kli9ckpp
-vless://6e82b4c1-0069-4b50-b03a-2f608bdc7d8d@mahan.beranti.ir:9091?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFR-m2mvn668
+vless://41f803dc-90f8-499c-a306-21cdb2ce510f@webdade.beranti.ir:4041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI🇫🇮-kli9ckpp
+vless://6e82b4c1-0069-4b50-b03a-2f608bdc7d8d@mahan.beranti.ir:9091?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI-m2mvn668
