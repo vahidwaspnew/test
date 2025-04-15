@@ -5,5 +5,4 @@ vless://d3930a71-cc11-476e-8380-bfb321d22344@[2602:fa59:2:1e8::1]:32501?type=tcp
 vless://c19b74ee-411b-4940-ab31-90c8be46ed74@cat6.beranti.com:49761?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-xdj3ybwa
 vless://d5846ebc-f28e-4d9a-89f8-17cb63fd733e@cat6.beranti.com:21186?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6⛔️-w3pbc11i
 
-vless://41037582-cf2b-417c-92f2-87aa066236d6@dog6.beranti.com:19505?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFRIPv6-8lfjeyft
-vless://7d05b69c-ec29-45bf-b337-df0c65f76554@dog6.beranti.com:14149?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFRIPv6⛔️-4aplp9mb
+vless://a3d896f9-b23f-4bd2-ab57-8d0e81e19ef2@dog6.beranti.com:42739?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6⛔️-rlk4oy31
