@@ -3,6 +3,8 @@ vless://06968c72-a9a5-494b-9408-31d3ef880ec0@webdade.beranti.ir:2084?type=tcp&pa
 
 vless://4adf4e01-7674-4829-a950-d015509fdb63@mahan.beranti.ir:15754?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelDE-6lq8s58s
 vless://3acf70e0-8b78-4b8a-8f7b-83ca3d4b910b@webdade.beranti.ir:54202?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelDE🇩🇪-6r8n57tf
+vless://36536a7d-e897-4146-a9f3-5f338a2db2ff@mahan.beranti.ir:40338?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelFI-t9rc0oct
+vless://b4df06ed-47a4-420f-925d-7e3a551332f2@webdade.beranti.ir:32097?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelFI🇫🇮-hvvxvifo
 
 vless://682ac969-77a3-493a-8aa9-8f8b4ae1b001@mahan.beranti.ir:37512?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL-993p3t1r
 vless://1f4ebb90-a716-4b8a-98e6-4ae096165dbe@mahan.beranti.ir:54233?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL⛔️-m8vd8kgj
