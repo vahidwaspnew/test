@@ -1,8 +1,6 @@
 vless://4948255e-a48d-4268-8df9-211ddb64e797@webdade.beranti.ir:1011?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User🇳🇱-4sobg8q4
 vless://189012a5-94c6-4c0d-8e26-e858071d469c@mahan.beranti.ir:5051?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User-fvbgb237
 
-vless://decd1d5b-4ca7-4215-9c82-e35cbd29ae2e@webdade.beranti.ir:2021?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserDE🇩🇪-2704svr4
-vless://09d08812-1c7a-4dc0-8c41-f7d0069c5033@mahan.beranti.ir:6061?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserDE-j0cmh3i2
 vless://9f6f9855-7d47-4b75-ba9a-0c8c030873a4@webdade.beranti.ir:17711?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFI🇫🇮me-h8fsbc5o
 vless://58c2c3e6-eb12-4c01-bf19-f07427ee6a48@mahan.beranti.ir:22417?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserFIme_-yhw2g5v8
 
