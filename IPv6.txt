@@ -1,6 +1,5 @@
 vless://2830aabb-b1dc-41e9-ad04-72629c63bfeb@[2a13:7c00:4:9:f816:3eff:febb:a0df]:24732?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-asjfok3a
 
-vless://48e573e3-9013-4307-b371-96aaccc402d9@[2602:fa59:8:439::1]:46594?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfDEPv6-oxzmp7xe
 vless://7dcb851b-8d76-4532-9484-a6d66cc29ae2@[2a01:4f9:c011:3860::1]:12738?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-0jyoeaqh
 
 vless://c19b74ee-411b-4940-ab31-90c8be46ed74@cat6.beranti.com:49761?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-xdj3ybwa
