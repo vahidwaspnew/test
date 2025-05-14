@@ -1,13 +1,5 @@
-====================================
-vless://6d430e8a-d9cb-43ac-8ff7-77cad2d65886@cat.beranti.com:7143?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=rfseWTYyBQLRwO_IHLZDh4CSKfqZ8_afFLhsVV7DF0s&type=tcp&headerType=none#ArashArgoX reality-vision
+vless://9d61f6b6-fda9-4c1d-aa2d-d0072bb56a46@mcinet123.beranti.com:443?encryption=none&security=tls&sni=mcinet123.beranti.com&type=httpupgrade&path=%2F#StormZeroTrust-a1b7dx96
+vless://9d61f6b6-fda9-4c1d-aa2d-d0072bb56a46@mcinet123.beranti.com:80?encryption=none&security=none&type=httpupgrade&path=%2F#StormZeroTrust-a1b7dx96
 
-vless://6d430e8a-d9cb-43ac-8ff7-77cad2d65886@cat.beranti.com:7143?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=rfseWTYyBQLRwO_IHLZDh4CSKfqZ8_afFLhsVV7DF0s&type=grpc&serviceName=grpc&encryption=none#ArashArgoX reality-grpc
-
-vless://6d430e8a-d9cb-43ac-8ff7-77cad2d65886@time.cloudflare.com:443?encryption=none&security=tls&sni=a01.beranti.com&type=ws&host=a01.beranti.com&path=%2Fargox-vl%3Fed%3D2048#ArashArgoX-Vl
-
-vmess://eyAidiI6ICIyIiwgInBzIjogIkFyYXNoQXJnb1gtVm0iLCAiYWRkIjogInRpbWUuY2xvdWRmbGFyZS5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNmQ0MzBlOGEtZDljYi00M2FjLThmZjctNzdjYWQyZDY1ODg2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJub25lIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJhMDEuYmVyYW50aS5jb20iLCAicGF0aCI6ICIvYXJnb3gtdm0/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJhMDEuYmVyYW50aS5jb20iLCAiYWxwbiI6ICIiIH0=
-
-trojan://6d430e8a-d9cb-43ac-8ff7-77cad2d65886@time.cloudflare.com:443?security=tls&sni=a01.beranti.com&type=ws&host=a01.beranti.com&path=/argox-tr?ed%3D2048#ArashArgoX-Tr
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDQzMGU4YS1kOWNiLTQzYWMtOGZmNy03N2NhZDJkNjU4ODY=@time.cloudflare.com:443#ArashArgoX-Sh
-====================================
+vless://a17c9f2c-d83f-4316-983c-640834d1de87@mcinet321.beranti.com:443?encryption=none&security=tls&sni=mcinet321.beranti.com&type=httpupgrade&path=%2F#ConfZeroTrust-gzegwnlb
+vless://a17c9f2c-d83f-4316-983c-640834d1de87@mcinet321.beranti.com:80?encryption=none&security=none&sni=mcinet321.beranti.com&type=httpupgrade&path=%2F#ConfZeroTrust-gzegwnlb
