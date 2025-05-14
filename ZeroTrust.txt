@@ -2,4 +2,4 @@ vless://9d61f6b6-fda9-4c1d-aa2d-d0072bb56a46@mcinet123.beranti.com:443?encryptio
 vless://9d61f6b6-fda9-4c1d-aa2d-d0072bb56a46@mcinet123.beranti.com:80?encryption=none&security=none&type=httpupgrade&path=%2F#StormZeroTrust-a1b7dx96
 
 vless://a17c9f2c-d83f-4316-983c-640834d1de87@mcinet321.beranti.com:443?encryption=none&security=tls&sni=mcinet321.beranti.com&type=httpupgrade&path=%2F#ConfZeroTrust-gzegwnlb
-vless://a17c9f2c-d83f-4316-983c-640834d1de87@mcinet321.beranti.com:80?encryption=none&security=none&sni=mcinet321.beranti.com&type=httpupgrade&path=%2F#ConfZeroTrust-gzegwnlb
+vless://a17c9f2c-d83f-4316-983c-640834d1de87@mcinet321.beranti.com:80?encryption=none&security=none&type=httpupgrade&path=%2F#ConfZeroTrust-gzegwnlb
