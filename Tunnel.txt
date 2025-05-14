@@ -7,5 +7,3 @@ vless://b4df06ed-47a4-420f-925d-7e3a551332f2@webdade.beranti.ir:32097?type=tcp&p
 vless://682ac969-77a3-493a-8aa9-8f8b4ae1b001@mahan.beranti.ir:37512?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL-993p3t1r
 vless://1f4ebb90-a716-4b8a-98e6-4ae096165dbe@mahan.beranti.ir:54233?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL⛔️-m8vd8kgj
 vless://66781cf0-f9c7-419e-a5fe-be770d8ba937@webdade.beranti.ir:35153?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL🇳🇱-264x5xlg
-
-vless://10484917-6848-46f6-94de-aa2358e759c0@mahan.beranti.ir:49741?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelFI⛔️-d2pxsj3o
