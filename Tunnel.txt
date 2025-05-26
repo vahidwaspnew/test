@@ -1,4 +1,4 @@
-vless://501eabb7-7058-468a-9de0-a16d3fcfebc3@mahan.beranti.ir:2083?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-6payzu0w
+vless://36cdb2d3-b5d8-411f-a6f8-6b97c44ba520@mahan.beranti.ir:2083?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-6payzu0w
 vless://06968c72-a9a5-494b-9408-31d3ef880ec0@webdade.beranti.ir:2084?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel🇳🇱-cfa5qdk2
 
 vless://36536a7d-e897-4146-a9f3-5f338a2db2ff@mahan.beranti.ir:40338?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelFI-t9rc0oct
