@@ -1,5 +1,5 @@
 hy2://f8cf4fff-0a53-4ce1-9a23-4bd97171c8ff@cat.beranti.com:8882?insecure=1#ArashSB
-
+hy2://c42ecfbc-ea24-4bf6-9aec-3a5f5b3e9542@queen.beranti.com:8882?insecure=1#VahidSB
 hy2://313115af-48ff-460d-9e50-23e3191a58d6@storm.beranti.com:8882?insecure=1#VahidFISB
 
 hysteria2://1gAIdb.RYbU3K@cat.beranti.com:443?sni=cat.beranti.com&obfs=salamander&obfs-password=rrvFsokoShGMVGv4GqX4Hg%3D%3D&insecure=0#ArashNLwPanel
