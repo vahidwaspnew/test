@@ -1,4 +1,4 @@
-vless://2830aabb-b1dc-41e9-ad04-72629c63bfeb@[2a13:7c00:4:9:f816:3eff:febb:a0df]:24732?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-asjfok3a
+vless://29d8a0f0-8c47-4d37-8707-5dd11f09b668@[2a13:7c00:4:9:f816:3eff:febb:a0df]:51519?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfIPv6-dpfuw125
 
 vless://7dcb851b-8d76-4532-9484-a6d66cc29ae2@[2a01:4f9:c011:3860::1]:12738?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfFIIPv6-0jyoeaqh
 
