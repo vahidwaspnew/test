@@ -3,3 +3,6 @@ vless://056b9555-10cb-4805-a51d-01afedb45992@mahan.beranti.ir:13681?type=tcp&sec
 
 vless://7d10c490-2269-4695-b37c-8402d7e64e6e@webdade.beranti.ir:57356?type=tcp&security=reality&pbk=WUIQTM5tL2khB1U94nmDl5Csa_mLqcyncJc1G_eAPnM&fp=chrome&sni=shahrekhabar.com&sid=623cae&spx=%2F#ConfPsiphon2-lin675a9
 vless://52f940c5-7fa6-488b-bcfe-1c6986049ba1@webdade.beranti.ir:44773?type=tcp&security=reality&pbk=UnHUYmktfadhBjsuKduTaGOMY39koW4bGTZgL2Wvfn8&fp=chrome&sni=shahrekhabar.com&sid=f397f464485b8118&spx=%2F#ConfPsiphon4-xj6baky0
+
+vless://c14fc2e0-73a0-4c44-873a-9bc9755b451b@193.134.100.22:2083?type=tcp&security=none#ConfPsiphon5-jq810rkt
+vless://58069a05-0bd6-4124-afca-0eb7f6e90eb5@193.134.100.22:2096?type=tcp&security=none#ConfPsiphon6-kslafgae
