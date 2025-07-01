@@ -7,5 +7,3 @@ vless://66781cf0-f9c7-419e-a5fe-be770d8ba937@webdade.beranti.ir:35153?type=tcp&p
 
 vless://0e15b3f4-b7ac-46bc-9c54-09fc9a65c140@webdade.beranti.ir:3007?type=tcp&security=none#ConfTunnelRathole-kxd639h2
 vless://99c3a033-3720-4b71-947a-0b0e752feda1@213.176.2.10:443?type=tcp&security=none#ConfTunnelNLWaterwall-1siz6osf
-
-vless://19fbc692-512b-4f69-bffe-444e3eb121fd@mahan.beranti.ir:59363?type=tcp&security=none#ICMPTunnelNL-9x4jddmp
