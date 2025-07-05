@@ -4,4 +4,5 @@ vless://417d5b27-7cad-4625-af62-bd153302f80b@mahan.beranti.ir:5051?type=tcp&path
 vless://a44bf7e2-0e75-4a9f-8263-e2a408c72021@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL🇳🇱-krj1g2c2
 vless://691361fd-a996-4254-b1ba-521567814cd7@mahan.beranti.ir:7071?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNL-zd1s9ztg
 
-vless://2487832a-2317-418c-a91b-4dd2a1b4a43f@webdade.beranti.ir:30931?type=tcp&security=none#ICMPTunnelNL🇳🇱-g05yuvw5
+
+vless://2487832a-2317-418c-a91b-4dd2a1b4a43f@webdade.beranti.ir:30931?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnelNL🇳🇱-g05yuvw5
