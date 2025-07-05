@@ -7,5 +7,5 @@ vless://66781cf0-f9c7-419e-a5fe-be770d8ba937@webdade.beranti.ir:35153?type=tcp&p
 
 vless://0e15b3f4-b7ac-46bc-9c54-09fc9a65c140@webdade.beranti.ir:4007?type=tcp&security=none#ConfTunnelRathole🇳🇱-kxd639h2
 vless://d2f7eace-373b-4711-9537-4fb1111e0cdf@webdade.beranti.ir:4008?type=tcp&security=none#ConfTunnelNLRathole🇳🇱-3l54rbml
-vless://51e66a1f-2f21-4980-b4fb-6f96c2f77f51@webdade.beranti.ir:8448?type=tcp&security=none#ConfTunnelNLWaterwall🇳🇱-r4tfqxjb
+vless://51e66a1f-2f21-4980-b4fb-6f96c2f77f51@webdade.beranti.ir:8448?type=tcp&security=none#ConfTunnelWaterwall🇳🇱-r4tfqxjb
 vless://99c3a033-3720-4b71-947a-0b0e752feda1@213.176.2.10:443?type=tcp&security=none#ConfTunnelNLWaterwall-1siz6osf
