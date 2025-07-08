@@ -10,3 +10,4 @@ vless://aaac8654-41fe-43d4-9108-91d3be0b92bb@93.126.18.137:55593?type=tcp&path=%
 vless://a8373552-be02-44c8-8a34-a5f81dafd8ac@93.126.18.137:32717?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNLIR🇳🇱🇮🇷-l3053wx4
 vless://51e3d937-5ca1-4136-ac0e-7c930130beb3@93.126.18.137:20636?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserIR🇮🇷-4937brco
 vless://fad265f2-5c89-45a2-8352-53710d73629a@93.126.18.137:50840?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserCHIR🇨🇭🇮🇷-r1xrrvhy
+vless://50a03eca-bc3e-4bb4-b278-84a209a91f6e@93.126.18.137:53253?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnelIR🇮🇷-u00rfxh2
