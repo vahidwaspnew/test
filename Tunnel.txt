@@ -1,5 +1,6 @@
-vless://5645f4e7-253b-4277-9976-e36e3798c211@mahan.beranti.ir:29886?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel-vzh0udyg
-vless://06823a50-fe9b-40a1-a5a9-8399510ededc@webdade.beranti.ir:37464?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel🇳🇱-4wn57hgs
+vless://5645f4e7-253b-4277-9976-e36e3798c211@mahan.beranti.ir:29886?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel-vzh0udyg
+vless://06823a50-fe9b-40a1-a5a9-8399510ededc@webdade.beranti.ir:37464?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🌐-4wn57hgs
+
 
 vless://682ac969-77a3-493a-8aa9-8f8b4ae1b001@mahan.beranti.ir:37512?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL-993p3t1r
 vless://1f4ebb90-a716-4b8a-98e6-4ae096165dbe@mahan.beranti.ir:54233?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelNL⛔️-m8vd8kgj
