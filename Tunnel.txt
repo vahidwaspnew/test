@@ -4,7 +4,7 @@ vless://040f8078-9247-4cd2-8c97-7f79ef878759@93.126.18.137:11321?type=tcp&path=%
 vless://2b129237-c2e4-44ff-b1d6-d29ef9152954@penta.beranti.ir:19118?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🅿️-wjxges1b
 =============================================
 vless://682ac969-77a3-493a-8aa9-8f8b4ae1b001@mahan.beranti.ir:37512?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🇳🇱-993p3t1r
-vless://1f4ebb90-a716-4b8a-98e6-4ae096165dbe@mahan.beranti.ir:54233?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnelConfTunnel🇳🇱⛔️-m8vd8kgj
+vless://1f4ebb90-a716-4b8a-98e6-4ae096165dbe@mahan.beranti.ir:54233?type=tcp&path=%2F&host=time.cloudflare.com&headerType=http&security=none#ConfTunnel🇳🇱⛔️-m8vd8kgj
 vless://66781cf0-f9c7-419e-a5fe-be770d8ba937@webdade.beranti.ir:35153?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🇳🇱🌐-264x5xlg
 vless://b883be3d-9630-4081-8a71-c2c1492bd48a@skycloud.beranti.ir:54016?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🇳🇱☁️-mwygly9h
 vless://60e432bb-c9d3-4140-8d99-931ffd8d403a@penta.beranti.ir:47041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🇳🇱🅿️-zfcnk8ga
@@ -18,8 +18,3 @@ vless://0eb74da6-e4ed-400c-8f83-13045fbaee36@penta.beranti.ir:21619?type=tcp&pat
 vless://d2f7eace-373b-4711-9537-4fb1111e0cdf@webdade.beranti.ir:4008?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRathole🇳🇱🌐-3l54rbml
 vless://51e66a1f-2f21-4980-b4fb-6f96c2f77f51@webdade.beranti.ir:8448?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🌐-r4tfqxjb
 vless://99c3a033-3720-4b71-947a-0b0e752feda1@mahan.beranti.ir:443?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🇳🇱-1siz6osf
-
-
-
-
-
