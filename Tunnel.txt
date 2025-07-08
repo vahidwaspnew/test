@@ -17,7 +17,7 @@ vless://0eb74da6-e4ed-400c-8f83-13045fbaee36@penta.beranti.ir:21619?type=tcp&pat
 ://0e15b3f4-b7ac-46bc-9c54-09fc9a65c140@webdade.beranti.ir:4007?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRathole🌐-kxd639h2
 vless://d2f7eace-373b-4711-9537-4fb1111e0cdf@webdade.beranti.ir:4008?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRathole🇳🇱🌐-3l54rbml
 vless://51e66a1f-2f21-4980-b4fb-6f96c2f77f51@webdade.beranti.ir:8448?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🌐-r4tfqxjb
-vless://99c3a033-3720-4b71-947a-0b0e752feda1@mahan.beranti.ir:443?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🇳🇱	-1siz6osf
+vless://99c3a033-3720-4b71-947a-0b0e752feda1@mahan.beranti.ir:443?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🇳🇱-1siz6osf
 
 
 
