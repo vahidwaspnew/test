@@ -13,4 +13,4 @@ vless://c73281d8-5525-47a5-b880-390c64660818@penta.beranti.ir:2086?type=tcp&path
 ========================================
 vless://2487832a-2317-418c-a91b-4dd2a1b4a43f@webdade.beranti.ir:30931?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnel🇳🇱🌐-g05yuvw5
 vless://50a03eca-bc3e-4bb4-b278-84a209a91f6e@93.126.18.137:53253?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnel🇮🇷☁️-u00rfxh2
-vless://50a03eca-bc3e-4bb4-b278-84a209a91f6e@93.126.18.137:53253?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnel🇨🇭🅿️-u00rfxh2
+vless://52259bb5-111e-4e86-b0b2-c48a73e304f2@penta.beranti.ir:2082?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnel🇨🇭🅿️-oubt3ft4
