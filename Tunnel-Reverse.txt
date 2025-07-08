@@ -6,6 +6,6 @@ vless://691361fd-a996-4254-b1ba-521567814cd7@mahan.beranti.ir:7071?type=tcp&path
 
 vless://2487832a-2317-418c-a91b-4dd2a1b4a43f@webdade.beranti.ir:30931?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ICMPTunnelNL🇳🇱-g05yuvw5
 
-vless://aaac8654-41fe-43d4-9108-91d3be0b92bb@skycloud.beranti.ir:55593?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNLIR🇳🇱🇮🇷⛔️-e5ocs6dm
+vless://aaac8654-41fe-43d4-9108-91d3be0b92bb@93.126.18.137:55593?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNLIR🇳🇱🇮🇷⛔️-e5ocs6dm
 vless://a8373552-be02-44c8-8a34-a5f81dafd8ac@93.126.18.137:32717?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserNLIR🇳🇱🇮🇷-l3053wx4
 vless://51e3d937-5ca1-4136-ac0e-7c930130beb3@93.126.18.137:20636?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#UserIR🇮🇷-4937brco
