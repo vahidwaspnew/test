@@ -9,3 +9,6 @@ vless://66781cf0-f9c7-419e-a5fe-be770d8ba937@webdade.beranti.ir:35153?type=tcp&p
 vless://d2f7eace-373b-4711-9537-4fb1111e0cdf@webdade.beranti.ir:4008?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelNLRathole🇳🇱-3l54rbml
 vless://51e66a1f-2f21-4980-b4fb-6f96c2f77f51@webdade.beranti.ir:8448?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🇳🇱-r4tfqxjb
 vless://99c3a033-3720-4b71-947a-0b0e752feda1@213.176.2.10:443?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelNLWaterwall-1siz6osf
+
+vless://040f8078-9247-4cd2-8c97-7f79ef878759@skycloud.beranti.ir:11321?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🇮🇷-sxagrct8
+vless://b883be3d-9630-4081-8a71-c2c1492bd48a@skycloud.beranti.ir:54016?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelNL🇮🇷-mwygly9h
