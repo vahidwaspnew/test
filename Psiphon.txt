@@ -1,6 +1,3 @@
-vless://4ad79df2-5425-4a4e-ba1c-616b602add2c@mahan.beranti.ir:41886?type=tcp&security=reality&pbk=BNXPZcKcw7LAnhoXUQfWjCBAT_ZWPC4oMvYOb_h7YSY&fp=chrome&sni=shahrekhabar.com&sid=d5993c58d506&spx=%2F#ConfPsiphonSocks-xwrlmr03
-vless://056b9555-10cb-4805-a51d-01afedb45992@mahan.beranti.ir:13681?type=tcp&security=reality&pbk=LVD_FLLSCdctQNXrcHFDxPNQAYO46RLek2-B0L0kamw&fp=chrome&sni=shahrekhabar.com&sid=2db91fe48ce5&spx=%2F#ConfPsiphonHTTP-3au8vv5j
-
 vless://7d10c490-2269-4695-b37c-8402d7e64e6e@webdade.beranti.ir:57356?type=tcp&security=none#ConfPsiphonSocks🌐-lin675a9
 vless://52f940c5-7fa6-488b-bcfe-1c6986049ba1@webdade.beranti.ir:44773?type=tcp&security=none#ConfPsiphonHTTP🌐-xj6baky0
 
