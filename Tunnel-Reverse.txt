@@ -16,3 +16,6 @@ vless://52259bb5-111e-4e86-b0b2-c48a73e304f2@penta.beranti.ir:2082?type=tcp&path
 vless://db833a1c-0f50-4cfb-a234-33d9c9483ea0@skycloud.beranti.ir:33142?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRGT☁️-o6nouszj
 vless://83aaf121-de01-49fd-bf11-7cbb0654c2f6@91.240.95.217:41823?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRGT🇳🇱🌐-kq8en8hv
 vless://a2ce7da6-b8df-4fb3-b41d-493d42973c90@penta.beranti.ir:29513?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRGT🇨🇭🅿️-vyjxtima
+
+vless://09c2c9bf-b115-4ae7-993a-a70e796670b6@webdade.beranti.ir:16307?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelBackhaul🇳🇱🌐-74ii1rkj
+vless://1172b116-d0f3-4287-bcd2-061489aadf48@penta.beranti.ir:14559?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelBackhaul🇨🇭🅿️-o3h9757l
