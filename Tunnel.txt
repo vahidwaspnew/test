@@ -7,7 +7,7 @@ vless://9bfb4025-bff6-4d70-a783-d41305d42c53@webdade.beranti.ir:26977?type=tcp&e
 vless://60e432bb-c9d3-4140-8d99-931ffd8d403a@penta.beranti.ir:47041?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnel🇳🇱🅿️-zfcnk8ga
 =============================================
 vless://d2f7eace-373b-4711-9537-4fb1111e0cdf@webdade.beranti.ir:4008?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRathole🇳🇱🌐-3l54rbml
-vless://92ccf72c-5a29-4ff2-9986-8dc5f7ac910d@193.134.100.22:23753?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRathole🇺🇸-08i31q48
+vless://92ccf72c-5a29-4ff2-9986-8dc5f7ac910d@193.134.100.22:23753?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRathole🇺🇸🅿️-08i31q48
 vless://51e66a1f-2f21-4980-b4fb-6f96c2f77f51@webdade.beranti.ir:8448?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelWaterwall🌐-r4tfqxjb
 vless://07f6a40b-85a9-428c-8314-ad09268fe4d1@webdade.beranti.ir:35223/?encryption=none&flow=&host=myket.ir&path=%2F&type=tcp&headerType=http#ConfTunnelLena🌐-3tc0n216
 ==============================================
