@@ -4,7 +4,11 @@ vless://a44bf7e2-0e75-4a9f-8263-e2a408c72021@webdade.beranti.ir:3031?type=tcp&pa
 ========================================
 vless://b731f8f0-5341-4884-bf33-768917a7c594@webdade.beranti.ir:52334?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇺🇸🇮🇷🌐-71l8cz5c
 ========================================
-
+vless://c73281d8-5525-47a5-b880-390c64660818@penta.beranti.ir:2086?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#User🇮🇷🅿️-l6pyle10
+========================================
+vless://dd2afc63-596a-45cc-bf78-6089399aff3f@penta.beranti.ir:46233?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#User🇳🇱🇮🇷🅿️-frwrlprg
+========================================
+vless://ae2608f4-47b4-4d08-b053-6477c60bacc3@penta.beranti.ir:45150?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#User🇺🇸🇮🇷🅿️-2gd0lo92
 ========================================
 vless://83aaf121-de01-49fd-bf11-7cbb0654c2f6@91.240.95.217:41823?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelRGT🇳🇱🌐-kq8en8hv
 ========================================
