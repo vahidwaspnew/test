@@ -2,3 +2,5 @@ vless://29d8a0f0-8c47-4d37-8707-5dd11f09b668@[2a13:7c00:4:9:f816:3eff:febb:a0df]
 
 vless://c19b74ee-411b-4940-ab31-90c8be46ed74@cat6.beranti.com:49761?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6-xdj3ybwa
 vless://d5846ebc-f28e-4d9a-89f8-17cb63fd733e@cat6.beranti.com:21186?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ConfNLIPv6⛔️-w3pbc11i
+
+vless://0a4e0ddb-5095-45af-9704-5d5f3a062de8@storm6.beranti.com:49486?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#StormIPv6-981x7tgc
