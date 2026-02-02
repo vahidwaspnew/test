@@ -1,6 +1,6 @@
 vless://4948255e-a48d-4268-8df9-211ddb64e797@webdade.beranti.ir:1011?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User🇮🇷🌐-4sobg8q4
 ========================================
-vless://a44bf7e2-0e75-4a9f-8263-e2a408c72021@webdade.beranti.ir:3031?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#User🇳🇱🇮🇷🌐-krj1g2c2
+vless://91968244-949b-4ae2-a4b0-b83aeed00235@webdade.beranti.ir:37796?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇳🇱🇮🇷🌐-fx844uit
 ========================================
 vless://cf0b19cf-8a3d-471d-8608-8733585d01b5@webdade.beranti.ir:42291?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇺🇸🇮🇷🌐-igoc3r68
 ========================================
