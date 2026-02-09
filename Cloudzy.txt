@@ -22,6 +22,13 @@ vless://b562f032-632a-40e1-8b01-8b35c185abc7@www.speedtest.net:8080?type=ws&encr
 vless://adba3c3f-9f6b-4a9b-8ed1-c3cf425806fe@candy.beranti.com:57511?type=tcp&encryption=none&security=reality&pbk=P4pnOOVT1SeYWMCoK0QHfnVHmuenjf8U6gI1pudE2E4&fp=chrome&sni=www.yahoo.com&sid=b951403917a2ef5a&spx=%2F&flow=xtls-rprx-vision#Reality-Vision-US-3wlemc7h
 vless://a263899e-1133-4f21-b88f-669d13ec1ac1@mcinet123.beranti.com:80?encryption=none&security=none&type=httpupgrade&path=%2F#CandyZeroTrust80-uoloqgif
 vless://a263899e-1133-4f21-b88f-669d13ec1ac1@mcinet123.beranti.com:443?encryption=none&security=tls&sni=mcinet123.beranti.com&insecure=0&allowInsecure=0&type=httpupgrade&path=%2F#CandyZeroTrust443-uoloqgif
-vless://6d89e317-fea1-4eb3-8527-c6a25f395e56@193.134.100.22:12083?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelBackhaul🇺🇸🅿️-35pa0hqr
 ==============================
-
+vless://6d89e317-fea1-4eb3-8527-c6a25f395e56@193.134.100.22:12083?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#ConfTunnelBackhaul🇺🇸🅿️-35pa0hqr
+vless://538d9a83-630a-4077-8a33-99ef52b5a9e8@webdade.beranti.ir:55231?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#DekoUser🇮🇷🌐-skuiv794
+vless://2e492950-8de9-453a-8109-25e524b532e7@penta.beranti.ir:55231?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#DekoUser🇺🇸🇮🇷🅿️-e26yvdbc
+vless://7190d0f6-fdb7-4e8c-aba4-0ee7f61a027b@webdade.beranti.ir:40636?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇮🇷🌐-1k51rh5g
+vless://17396c85-d051-478d-bc16-fe31d38de7e2@webdade.beranti.ir:38308?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇳🇱🇮🇷🌐-wuxfdlqt
+vless://59c0b5e0-755c-43e9-b3d8-7a8a21232fe3@webdade.beranti.ir:10202?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇺🇸🇮🇷🌐-upfr3665
+vless://c73281d8-5525-47a5-b880-390c64660818@penta.beranti.ir:2086?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇮🇷🅿️-l6pyle10
+vless://dd2afc63-596a-45cc-bf78-6089399aff3f@penta.beranti.ir:46233?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇳🇱🇮🇷🅿️-frwrlprg
+vless://9195a188-4f9e-4dae-b35e-da6b7df122ae@penta.beranti.ir:11822?type=tcp&encryption=none&path=%2F&host=myket.ir&headerType=http&security=none#User🇺🇸🇮🇷🅿️-6y8psfyi
