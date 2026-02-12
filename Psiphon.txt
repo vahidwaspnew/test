@@ -1,5 +1,5 @@
-vless://7d10c490-2269-4695-b37c-8402d7e64e6e@webdade.beranti.ir:57356?type=tcp&security=none#ConfPsiphonSocks🌐-lin675a9
-vless://52f940c5-7fa6-488b-bcfe-1c6986049ba1@webdade.beranti.ir:44773?type=tcp&security=none#ConfPsiphonHTTP🌐-xj6baky0
+vless://e8c1f3f9-5d94-4edd-9bf5-ad319b7d3295@webdade.beranti.ir:20835?type=tcp&encryption=none&security=none#ConfPsiphonSocks🌐-184ggq42
+vless://c82f34f1-ccc7-463c-ab97-a80a9662db15@webdade.beranti.ir:55834?type=tcp&encryption=none&security=none#ConfPsiphonHTTP🌐-tptiadaq
 
 vless://c14fc2e0-73a0-4c44-873a-9bc9755b451b@penta.beranti.ir:2083?type=tcp&security=none#ConfPsiphonSocks🅿️-jq810rkt
 vless://58069a05-0bd6-4124-afca-0eb7f6e90eb5@penta.beranti.ir:2096?type=tcp&security=none#ConfPsiphonHTTP🅿️-kslafgae
